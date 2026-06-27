@@ -166,9 +166,6 @@ class PredictionController extends Controller
     public function dashboard()
     {
         $provinces = Province::orderBy('province_name')->get();
-        $currentMonth = (int) date('n');
-        $currentYear = (int) date('Y');
-
         $cards = [];
 
         foreach ($provinces as $province) {
@@ -177,61 +174,25 @@ class PredictionController extends Controller
                 ->orderBy('month', 'desc')
                 ->first();
 
-            $isCurrent = $latestPrice && $latestPrice->year == $currentYear && $latestPrice->month == $currentMonth;
+            $displayPrice = $latestPrice ? (float) $latestPrice->price : null;
+            $displayMonth = $latestPrice?->month;
+            $displayYear = $latestPrice?->year;
+            $displayAccuracy = (float) $province->accuracy;
+            $source = 'historical';
 
-            if ($isCurrent) {
-                $displayPrice = (float) $latestPrice->price;
-                $displayMonth = $latestPrice->month;
-                $displayYear = $latestPrice->year;
-                $displayAccuracy = (float) $province->accuracy;
-                $source = 'historical';
+            $prevPrice = RicePrice::where('province_id', $province->id)
+                ->where(function ($q) use ($latestPrice) {
+                    $q->where('year', $latestPrice?->year)
+                      ->where('month', '<', $latestPrice?->month)
+                      ->orWhere('year', '<', $latestPrice?->year);
+                })
+                ->orderBy('year', 'desc')
+                ->orderBy('month', 'desc')
+                ->first();
 
-                $prevPrice = RicePrice::where('province_id', $province->id)
-                    ->where(function ($q) use ($latestPrice) {
-                        $q->where('year', $latestPrice->year)
-                          ->where('month', '<', $latestPrice->month)
-                          ->orWhere('year', '<', $latestPrice->year);
-                    })
-                    ->orderBy('year', 'desc')
-                    ->orderBy('month', 'desc')
-                    ->first();
-
-                $change = null;
-                if ($prevPrice && $prevPrice->price > 0) {
-                    $change = round((($latestPrice->price - $prevPrice->price) / $prevPrice->price) * 100, 2);
-                }
-            } else {
-                try {
-                    $response = Http::timeout(10)->post("{$this->fastApiUrl}/predict", [
-                        'province' => $province->province_name,
-                        'month' => $currentMonth,
-                        'year' => $currentYear,
-                    ]);
-
-                    if ($response->successful()) {
-                        $data = $response->json();
-                        $displayPrice = (float) $data['predicted_price'];
-                        $displayAccuracy = (float) ($data['accuracy'] ?? $province->accuracy);
-                        $source = 'prediction';
-                    } else {
-                        $displayPrice = $latestPrice ? (float) $latestPrice->price : null;
-                        $displayAccuracy = (float) $province->accuracy;
-                        $source = 'historical';
-                    }
-                } catch (\Exception $e) {
-                    $displayPrice = $latestPrice ? (float) $latestPrice->price : null;
-                    $displayAccuracy = (float) $province->accuracy;
-                    $source = 'historical';
-                }
-
-                $displayMonth = $currentMonth;
-                $displayYear = $currentYear;
-
-                $prevPrice = $latestPrice;
-                $change = null;
-                if ($prevPrice && $prevPrice->price > 0 && $displayPrice) {
-                    $change = round((($displayPrice - $prevPrice->price) / $prevPrice->price) * 100, 2);
-                }
+            $change = null;
+            if ($prevPrice && $prevPrice->price > 0 && $displayPrice) {
+                $change = round((($displayPrice - $prevPrice->price) / $prevPrice->price) * 100, 2);
             }
 
             $cards[] = [
@@ -245,8 +206,6 @@ class PredictionController extends Controller
                 'source' => $source,
             ];
         }
-
-        usort($cards, fn($a, $b) => strcmp($a['province_name'], $b['province_name']));
 
         return response()->json([
             'cards' => $cards,
