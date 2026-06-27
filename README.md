@@ -10,7 +10,7 @@
 <h1 align="center">Rice Price Predictor</h1>
 
 <p align="center">
-  A web application for monitoring, analyzing, and predicting rice prices across 31 provinces in Indonesia using machine learning.
+  <b>Machine Learning-based rice price forecasting system</b> — trains Linear Regression models per province to predict future rice prices across all 31 provinces of Indonesia.
 </p>
 
 ---
@@ -29,20 +29,22 @@
 |---|---|
 | **Backend** | Laravel 12, PHP 8.2+, MySQL |
 | **Frontend** | React 18, TypeScript, Inertia.js, Tailwind CSS |
-| **ML Service** | FastAPI, scikit-learn (Linear Regression) |
+| **ML Service** | FastAPI, scikit-learn (Linear Regression), joblib |
+| **ML Pipeline** | Dataset CSV → Model Training → Serialized .pkl → Prediction API |
 | **Tooling** | Vite, Recharts, Axios, Ziggy, Laravel Breeze |
 
 ---
 
 ## Features
 
-- **Real-time Dashboard** — summary of rice prices and ML predictions across 8 main provinces
-- **Price Prediction** — predict future rice prices using Linear Regression via FastAPI
-- **Multi-province Comparison** — compare price trends between up to 3 provinces on the same chart
+- **ML Price Prediction** — predict future rice prices using per-province Linear Regression models served via FastAPI
+- **31 Province Models** — each province has its own trained model (stored as `.pkl`), enabling localized predictions
+- **Real-time Dashboard** — summary of latest prices and prediction accuracy across all 31 provinces
+- **Multi-province Comparison** — overlay predicted vs historical price trends for up to 3 provinces
 - **Custom Date Range** — flexible analysis with configurable start/end month and year
-- **Historical Trends** — view up to 10 years of historical price data (2016–2026)
-- **Auto-training** — ML models are automatically trained from the latest price data
-- **Responsive UI** — dark-themed interface with glassmorphism design
+- **Historical Trends (2016–2026)** — over 3,000 data points covering a decade of rice prices
+- **Auto-training** — models are automatically retrained from the latest dataset when predictions are requested
+- **Responsive UI** — dark-themed glassmorphism interface optimized for desktop & mobile
 
 ---
 
@@ -54,16 +56,44 @@
 │ (React)  │     │  (API + SSR)    │     │  (historical)│
 └──────────┘     └────────┬────────┘     └──────────────┘
                           │
+                          │  POST /predict {province, month, year}
                           ▼
-                   ┌──────────────┐
-                   │  FastAPI     │
-                   │  (ML Model)  │
-                   └──────────────┘
+                   ┌──────────────────┐
+                   │  FastAPI         │
+                   │  (ML Service)    │
+                   │                  │
+                   │  ┌────────────┐  │
+                   │  │ model_*.pkl │  │  ← 31 Linear Regression models
+                   │  └────────────┘  │       trained on {month, year} → price
+                   └──────────────────┘
 ```
 
-- **Laravel** serves the frontend via Inertia.js (React) and provides REST API endpoints
-- **FastAPI** runs scikit-learn Linear Regression models for price prediction
-- **MySQL** stores historical rice price data and user sessions
+### How ML Prediction Works
+
+1. **Dataset** — historical rice prices stored in `dataset_lengkap.csv` and seeded into MySQL
+2. **Training** — FastAPI trains a separate Linear Regression model per province using `month` and `year` as features to predict `price`
+3. **Serialization** — each trained model is saved as `model_<province>.pkl` in `fastapi-service/models/`
+4. **Prediction** — when a user requests a forecast, FastAPI loads the corresponding `.pkl` model and runs inference
+5. **Fallback** — if no model exists, FastAPI automatically trains one from the latest database records
+
+- **Laravel** serves the frontend via Inertia.js (React), provides REST API endpoints, and stores historical data
+- **FastAPI** runs the scikit-learn Linear Regression inference pipeline
+- **MySQL** holds ~3,000 historical price records (2016–2026) across 31 provinces
+
+---
+
+## Dataset
+
+The model is trained on **`dataset_lengkap.csv`** containing rice price records from January 2016 to December 2024 for all 31 Indonesian provinces. Each record includes:
+
+| Column | Description |
+|---|---|
+| `year` | Year of observation |
+| `month` | Month of observation (1–12) |
+| `province` | Province name |
+| `price` | Rice price in IDR |
+
+> The dataset is split per province, so each model learns from ~36 data points (monthly, 2016–2024). Features: `[month, year]` → Target: `price`.
 
 ---
 
@@ -190,6 +220,11 @@ The test suite includes integration tests for the historical data API endpoint, 
 │   ├── web.php                                 # Web routes (Inertia pages)
 │   ├── api.php                                 # API routes
 │   └── auth.php                                # Auth routes
+├── docs/
+│   ├── prd.md                                 # Product Requirement Document
+│   └── notebooks/
+│       └── predik_linear.ipynb                # Jupyter notebook — ML exploration & prototyping
+├── dataset_lengkap.csv                        # Raw dataset (source of truth for training)
 └── tests/
     └── Feature/
         └── HistoricalDataTest.php              # API integration tests
