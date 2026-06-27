@@ -1,0 +1,3049 @@
+date,admin1,commodity,unit,priceflag,pricetype,currency,price
+2016-01-15,ACEH,Rice,KG,aggregate,Retail,IDR,9312.0
+2016-02-15,ACEH,Rice,KG,aggregate,Retail,IDR,9312.0
+2016-03-15,ACEH,Rice,KG,aggregate,Retail,IDR,9312.0
+2016-04-15,ACEH,Rice,KG,aggregate,Retail,IDR,9312.0
+2016-05-15,ACEH,Rice,KG,aggregate,Retail,IDR,9312.0
+2016-06-15,ACEH,Rice,KG,aggregate,Retail,IDR,9312.0
+2016-07-15,ACEH,Rice,KG,aggregate,Retail,IDR,9312.0
+2016-08-15,ACEH,Rice,KG,aggregate,Retail,IDR,9520.0
+2016-09-15,ACEH,Rice,KG,aggregate,Retail,IDR,9950.0
+2016-10-15,ACEH,Rice,KG,aggregate,Retail,IDR,9936.0
+2016-11-15,ACEH,Rice,KG,aggregate,Retail,IDR,10002.0
+2016-12-15,ACEH,Rice,KG,aggregate,Retail,IDR,10114.0
+2017-01-15,ACEH,Rice,KG,aggregate,Retail,IDR,10229.67
+2017-02-15,ACEH,Rice,KG,aggregate,Retail,IDR,10345.33
+2017-03-15,ACEH,Rice,KG,aggregate,Retail,IDR,10461.0
+2017-04-15,ACEH,Rice,KG,aggregate,Retail,IDR,10457.21
+2017-05-15,ACEH,Rice,KG,aggregate,Retail,IDR,10453.41
+2017-06-15,ACEH,Rice,KG,aggregate,Retail,IDR,10449.62
+2017-07-15,ACEH,Rice,KG,aggregate,Retail,IDR,10445.82
+2017-08-15,ACEH,Rice,KG,aggregate,Retail,IDR,10442.03
+2017-09-15,ACEH,Rice,KG,aggregate,Retail,IDR,10438.24
+2017-10-15,ACEH,Rice,KG,aggregate,Retail,IDR,10434.44
+2017-11-15,ACEH,Rice,KG,aggregate,Retail,IDR,10430.65
+2017-12-15,ACEH,Rice,KG,aggregate,Retail,IDR,10426.85
+2018-01-15,ACEH,Rice,KG,aggregate,Retail,IDR,10423.06
+2018-02-15,ACEH,Rice,KG,aggregate,Retail,IDR,10419.26
+2018-03-15,ACEH,Rice,KG,aggregate,Retail,IDR,10415.47
+2018-04-15,ACEH,Rice,KG,aggregate,Retail,IDR,10411.68
+2018-05-15,ACEH,Rice,KG,aggregate,Retail,IDR,10407.88
+2018-06-15,ACEH,Rice,KG,aggregate,Retail,IDR,10404.09
+2018-07-15,ACEH,Rice,KG,aggregate,Retail,IDR,10400.29
+2018-08-15,ACEH,Rice,KG,aggregate,Retail,IDR,10396.5
+2018-09-15,ACEH,Rice,KG,aggregate,Retail,IDR,10392.71
+2018-10-15,ACEH,Rice,KG,aggregate,Retail,IDR,10388.91
+2018-11-15,ACEH,Rice,KG,aggregate,Retail,IDR,10385.12
+2018-12-15,ACEH,Rice,KG,aggregate,Retail,IDR,10381.32
+2019-01-15,ACEH,Rice,KG,aggregate,Retail,IDR,10377.53
+2019-02-15,ACEH,Rice,KG,aggregate,Retail,IDR,10373.74
+2019-03-15,ACEH,Rice,KG,aggregate,Retail,IDR,10369.94
+2019-04-15,ACEH,Rice,KG,aggregate,Retail,IDR,10366.15
+2019-05-15,ACEH,Rice,KG,aggregate,Retail,IDR,10362.35
+2019-06-15,ACEH,Rice,KG,aggregate,Retail,IDR,10358.56
+2019-07-15,ACEH,Rice,KG,aggregate,Retail,IDR,10354.76
+2019-08-15,ACEH,Rice,KG,aggregate,Retail,IDR,10350.97
+2019-09-15,ACEH,Rice,KG,aggregate,Retail,IDR,10347.18
+2019-10-15,ACEH,Rice,KG,aggregate,Retail,IDR,10343.38
+2019-11-15,ACEH,Rice,KG,aggregate,Retail,IDR,10339.59
+2019-12-15,ACEH,Rice,KG,aggregate,Retail,IDR,10335.79
+2020-01-15,ACEH,Rice,KG,aggregate,Retail,IDR,10332.0
+2020-02-15,ACEH,Rice,KG,aggregate,Retail,IDR,10312.0
+2020-03-15,ACEH,Rice,KG,aggregate,Retail,IDR,10148.0
+2020-04-15,ACEH,Rice,KG,aggregate,Retail,IDR,10218.0
+2020-05-15,ACEH,Rice,KG,aggregate,Retail,IDR,10302.0
+2020-06-15,ACEH,Rice,KG,aggregate,Retail,IDR,10290.0
+2020-07-15,ACEH,Rice,KG,aggregate,Retail,IDR,10279.0
+2020-08-15,ACEH,Rice,KG,aggregate,Retail,IDR,10265.0
+2020-09-15,ACEH,Rice,KG,aggregate,Retail,IDR,10240.0
+2020-10-15,ACEH,Rice,KG,aggregate,Retail,IDR,10242.0
+2020-11-15,ACEH,Rice,KG,aggregate,Retail,IDR,10209.0
+2020-12-15,ACEH,Rice,KG,aggregate,Retail,IDR,10218.0
+2021-01-15,ACEH,Rice,KG,aggregate,Retail,IDR,10218.0
+2021-02-15,ACEH,Rice,KG,aggregate,Retail,IDR,10173.0
+2021-03-15,ACEH,Rice,KG,aggregate,Retail,IDR,10138.0
+2021-04-15,ACEH,Rice,KG,aggregate,Retail,IDR,10139.0
+2021-05-15,ACEH,Rice,KG,aggregate,Retail,IDR,10097.0
+2021-06-15,ACEH,Rice,KG,aggregate,Retail,IDR,10092.0
+2021-07-15,ACEH,Rice,KG,aggregate,Retail,IDR,10072.0
+2021-08-15,ACEH,Rice,KG,aggregate,Retail,IDR,10089.0
+2021-09-15,ACEH,Rice,KG,aggregate,Retail,IDR,10091.0
+2021-10-15,ACEH,Rice,KG,aggregate,Retail,IDR,10094.0
+2021-11-15,ACEH,Rice,KG,aggregate,Retail,IDR,10108.0
+2021-12-15,ACEH,Rice,KG,aggregate,Retail,IDR,10164.0
+2022-01-15,ACEH,Rice,KG,aggregate,Retail,IDR,10338.0
+2022-02-15,ACEH,Rice,KG,aggregate,Retail,IDR,10362.0
+2022-03-15,ACEH,Rice,KG,aggregate,Retail,IDR,10378.0
+2022-04-15,ACEH,Rice,KG,aggregate,Retail,IDR,10313.0
+2022-05-15,ACEH,Rice,KG,aggregate,Retail,IDR,10279.0
+2022-06-15,ACEH,Rice,KG,aggregate,Retail,IDR,10277.0
+2022-07-15,ACEH,Rice,KG,aggregate,Retail,IDR,10299.0
+2022-08-15,ACEH,Rice,KG,aggregate,Retail,IDR,10626.0
+2022-09-15,ACEH,Rice,KG,aggregate,Retail,IDR,11027.0
+2022-10-15,ACEH,Rice,KG,aggregate,Retail,IDR,11069.0
+2022-11-15,ACEH,Rice,KG,aggregate,Retail,IDR,10994.0
+2022-12-15,ACEH,Rice,KG,aggregate,Retail,IDR,11164.0
+2023-01-15,ACEH,Rice,KG,aggregate,Retail,IDR,11597.0
+2023-02-15,ACEH,Rice,KG,aggregate,Retail,IDR,12017.0
+2023-03-15,ACEH,Rice,KG,aggregate,Retail,IDR,11751.0
+2023-04-15,ACEH,Rice,KG,aggregate,Retail,IDR,11756.0
+2023-05-15,ACEH,Rice,KG,aggregate,Retail,IDR,11722.0
+2023-06-15,ACEH,Rice,KG,aggregate,Retail,IDR,11675.0
+2023-07-15,ACEH,Rice,KG,aggregate,Retail,IDR,11897.0
+2023-08-15,ACEH,Rice,KG,aggregate,Retail,IDR,12297.0
+2023-09-15,ACEH,Rice,KG,aggregate,Retail,IDR,13198.0
+2023-10-15,ACEH,Rice,KG,aggregate,Retail,IDR,13618.0
+2023-11-15,ACEH,Rice,KG,aggregate,Retail,IDR,13617.0
+2023-12-15,ACEH,Rice,KG,aggregate,Retail,IDR,13617.0
+2016-01-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-02-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-03-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-04-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-05-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-06-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-07-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-08-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-09-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-10-15,BALI,Rice,KG,aggregate,Retail,IDR,10625.0
+2016-11-15,BALI,Rice,KG,aggregate,Retail,IDR,10562.0
+2016-12-15,BALI,Rice,KG,aggregate,Retail,IDR,10562.0
+2017-01-15,BALI,Rice,KG,aggregate,Retail,IDR,10591.0
+2017-02-15,BALI,Rice,KG,aggregate,Retail,IDR,10620.0
+2017-03-15,BALI,Rice,KG,aggregate,Retail,IDR,10649.0
+2017-04-15,BALI,Rice,KG,aggregate,Retail,IDR,10674.94
+2017-05-15,BALI,Rice,KG,aggregate,Retail,IDR,10700.88
+2017-06-15,BALI,Rice,KG,aggregate,Retail,IDR,10726.82
+2017-07-15,BALI,Rice,KG,aggregate,Retail,IDR,10752.76
+2017-08-15,BALI,Rice,KG,aggregate,Retail,IDR,10778.71
+2017-09-15,BALI,Rice,KG,aggregate,Retail,IDR,10804.65
+2017-10-15,BALI,Rice,KG,aggregate,Retail,IDR,10830.59
+2017-11-15,BALI,Rice,KG,aggregate,Retail,IDR,10856.53
+2017-12-15,BALI,Rice,KG,aggregate,Retail,IDR,10882.47
+2018-01-15,BALI,Rice,KG,aggregate,Retail,IDR,10908.41
+2018-02-15,BALI,Rice,KG,aggregate,Retail,IDR,10934.35
+2018-03-15,BALI,Rice,KG,aggregate,Retail,IDR,10960.29
+2018-04-15,BALI,Rice,KG,aggregate,Retail,IDR,10986.24
+2018-05-15,BALI,Rice,KG,aggregate,Retail,IDR,11012.18
+2018-06-15,BALI,Rice,KG,aggregate,Retail,IDR,11038.12
+2018-07-15,BALI,Rice,KG,aggregate,Retail,IDR,11064.06
+2018-08-15,BALI,Rice,KG,aggregate,Retail,IDR,11090.0
+2018-09-15,BALI,Rice,KG,aggregate,Retail,IDR,11115.94
+2018-10-15,BALI,Rice,KG,aggregate,Retail,IDR,11141.88
+2018-11-15,BALI,Rice,KG,aggregate,Retail,IDR,11167.82
+2018-12-15,BALI,Rice,KG,aggregate,Retail,IDR,11193.76
+2019-01-15,BALI,Rice,KG,aggregate,Retail,IDR,11219.71
+2019-02-15,BALI,Rice,KG,aggregate,Retail,IDR,11245.65
+2019-03-15,BALI,Rice,KG,aggregate,Retail,IDR,11271.59
+2019-04-15,BALI,Rice,KG,aggregate,Retail,IDR,11297.53
+2019-05-15,BALI,Rice,KG,aggregate,Retail,IDR,11323.47
+2019-06-15,BALI,Rice,KG,aggregate,Retail,IDR,11349.41
+2019-07-15,BALI,Rice,KG,aggregate,Retail,IDR,11375.35
+2019-08-15,BALI,Rice,KG,aggregate,Retail,IDR,11401.29
+2019-09-15,BALI,Rice,KG,aggregate,Retail,IDR,11427.24
+2019-10-15,BALI,Rice,KG,aggregate,Retail,IDR,11453.18
+2019-11-15,BALI,Rice,KG,aggregate,Retail,IDR,11479.12
+2019-12-15,BALI,Rice,KG,aggregate,Retail,IDR,11505.06
+2020-01-15,BALI,Rice,KG,aggregate,Retail,IDR,11531.0
+2020-02-15,BALI,Rice,KG,aggregate,Retail,IDR,11647.0
+2020-03-15,BALI,Rice,KG,aggregate,Retail,IDR,11754.0
+2020-04-15,BALI,Rice,KG,aggregate,Retail,IDR,11683.0
+2020-05-15,BALI,Rice,KG,aggregate,Retail,IDR,11609.0
+2020-06-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2020-07-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2020-08-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2020-09-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2020-10-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2020-11-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2020-12-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2021-01-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2021-02-15,BALI,Rice,KG,aggregate,Retail,IDR,11562.0
+2021-03-15,BALI,Rice,KG,aggregate,Retail,IDR,11531.0
+2021-04-15,BALI,Rice,KG,aggregate,Retail,IDR,11475.0
+2021-05-15,BALI,Rice,KG,aggregate,Retail,IDR,11374.0
+2021-06-15,BALI,Rice,KG,aggregate,Retail,IDR,11243.0
+2021-07-15,BALI,Rice,KG,aggregate,Retail,IDR,10970.0
+2021-08-15,BALI,Rice,KG,aggregate,Retail,IDR,10875.0
+2021-09-15,BALI,Rice,KG,aggregate,Retail,IDR,10847.0
+2021-10-15,BALI,Rice,KG,aggregate,Retail,IDR,10727.0
+2021-11-15,BALI,Rice,KG,aggregate,Retail,IDR,10626.0
+2021-12-15,BALI,Rice,KG,aggregate,Retail,IDR,10832.0
+2022-01-15,BALI,Rice,KG,aggregate,Retail,IDR,11487.0
+2022-02-15,BALI,Rice,KG,aggregate,Retail,IDR,11605.0
+2022-03-15,BALI,Rice,KG,aggregate,Retail,IDR,11614.0
+2022-04-15,BALI,Rice,KG,aggregate,Retail,IDR,11566.0
+2022-05-15,BALI,Rice,KG,aggregate,Retail,IDR,11096.0
+2022-06-15,BALI,Rice,KG,aggregate,Retail,IDR,11185.0
+2022-07-15,BALI,Rice,KG,aggregate,Retail,IDR,11280.0
+2022-08-15,BALI,Rice,KG,aggregate,Retail,IDR,11456.0
+2022-09-15,BALI,Rice,KG,aggregate,Retail,IDR,11449.0
+2022-10-15,BALI,Rice,KG,aggregate,Retail,IDR,11417.0
+2022-11-15,BALI,Rice,KG,aggregate,Retail,IDR,11550.0
+2022-12-15,BALI,Rice,KG,aggregate,Retail,IDR,11881.0
+2023-01-15,BALI,Rice,KG,aggregate,Retail,IDR,12351.0
+2023-02-15,BALI,Rice,KG,aggregate,Retail,IDR,13019.0
+2023-03-15,BALI,Rice,KG,aggregate,Retail,IDR,12884.0
+2023-04-15,BALI,Rice,KG,aggregate,Retail,IDR,13110.0
+2023-05-15,BALI,Rice,KG,aggregate,Retail,IDR,13001.0
+2023-06-15,BALI,Rice,KG,aggregate,Retail,IDR,12930.0
+2023-07-15,BALI,Rice,KG,aggregate,Retail,IDR,12954.0
+2023-08-15,BALI,Rice,KG,aggregate,Retail,IDR,13256.0
+2023-09-15,BALI,Rice,KG,aggregate,Retail,IDR,14118.0
+2023-10-15,BALI,Rice,KG,aggregate,Retail,IDR,14283.0
+2023-11-15,BALI,Rice,KG,aggregate,Retail,IDR,14338.0
+2023-12-15,BALI,Rice,KG,aggregate,Retail,IDR,14338.0
+2016-01-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2016-02-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2016-03-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2016-04-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2016-05-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2016-06-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2016-07-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2016-08-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2016-09-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10809.0
+2016-10-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10655.0
+2016-11-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10650.0
+2016-12-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10691.0
+2017-01-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10710.67
+2017-02-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10730.33
+2017-03-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10750.0
+2017-04-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10779.0
+2017-05-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10808.0
+2017-06-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10837.0
+2017-07-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10866.0
+2017-08-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10895.0
+2017-09-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10924.0
+2017-10-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10953.0
+2017-11-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10982.0
+2017-12-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11011.0
+2018-01-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11040.0
+2018-02-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11069.0
+2018-03-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11098.0
+2018-04-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11127.0
+2018-05-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11156.0
+2018-06-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11185.0
+2018-07-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11214.0
+2018-08-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11243.0
+2018-09-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11272.0
+2018-10-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11301.0
+2018-11-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11330.0
+2018-12-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11359.0
+2019-01-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11388.0
+2019-02-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11417.0
+2019-03-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11446.0
+2019-04-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11475.0
+2019-05-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11504.0
+2019-06-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11533.0
+2019-07-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11562.0
+2019-08-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11591.0
+2019-09-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11620.0
+2019-10-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11649.0
+2019-11-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11678.0
+2019-12-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11707.0
+2020-01-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11736.0
+2020-02-15,BANTEN,Rice,KG,aggregate,Retail,IDR,12500.0
+2020-03-15,BANTEN,Rice,KG,aggregate,Retail,IDR,12500.0
+2020-04-15,BANTEN,Rice,KG,aggregate,Retail,IDR,12458.0
+2020-05-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11875.0
+2020-06-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11875.0
+2020-07-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11616.0
+2020-08-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11375.0
+2020-09-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11046.0
+2020-10-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10975.0
+2020-11-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10975.0
+2020-12-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10975.0
+2021-01-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10617.0
+2021-02-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10975.0
+2021-03-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10957.0
+2021-04-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2021-05-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2021-06-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2021-07-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2021-08-15,BANTEN,Rice,KG,aggregate,Retail,IDR,10875.0
+2021-09-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11307.0
+2021-10-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11375.0
+2021-11-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11375.0
+2021-12-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11457.0
+2022-01-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11233.0
+2022-02-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-03-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-04-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-05-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11483.0
+2022-06-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11250.0
+2022-07-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11250.0
+2022-08-15,BANTEN,Rice,KG,aggregate,Retail,IDR,11564.0
+2022-09-15,BANTEN,Rice,KG,aggregate,Retail,IDR,12045.0
+2022-10-15,BANTEN,Rice,KG,aggregate,Retail,IDR,12075.0
+2022-11-15,BANTEN,Rice,KG,aggregate,Retail,IDR,12075.0
+2022-12-15,BANTEN,Rice,KG,aggregate,Retail,IDR,12385.0
+2023-01-15,BANTEN,Rice,KG,aggregate,Retail,IDR,12100.0
+2023-02-15,BANTEN,Rice,KG,aggregate,Retail,IDR,13075.0
+2023-03-15,BANTEN,Rice,KG,aggregate,Retail,IDR,13250.0
+2023-04-15,BANTEN,Rice,KG,aggregate,Retail,IDR,13250.0
+2023-05-15,BANTEN,Rice,KG,aggregate,Retail,IDR,13250.0
+2023-06-15,BANTEN,Rice,KG,aggregate,Retail,IDR,13250.0
+2023-07-15,BANTEN,Rice,KG,aggregate,Retail,IDR,13583.0
+2023-08-15,BANTEN,Rice,KG,aggregate,Retail,IDR,13809.0
+2023-09-15,BANTEN,Rice,KG,aggregate,Retail,IDR,14625.0
+2023-10-15,BANTEN,Rice,KG,aggregate,Retail,IDR,15182.0
+2023-11-15,BANTEN,Rice,KG,aggregate,Retail,IDR,15250.0
+2023-12-15,BANTEN,Rice,KG,aggregate,Retail,IDR,15250.0
+2016-01-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-02-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-03-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-04-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-05-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-06-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-07-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-08-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-09-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-10-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10165.0
+2016-11-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,9764.0
+2016-12-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10000.0
+2017-01-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10013.51
+2017-02-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10027.03
+2017-03-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10040.54
+2017-04-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10054.05
+2017-05-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10067.57
+2017-06-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10081.08
+2017-07-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10094.59
+2017-08-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10108.11
+2017-09-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10121.62
+2017-10-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10135.14
+2017-11-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10148.65
+2017-12-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10162.16
+2018-01-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10175.68
+2018-02-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10189.19
+2018-03-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10202.7
+2018-04-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10216.22
+2018-05-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10229.73
+2018-06-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10243.24
+2018-07-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10256.76
+2018-08-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10270.27
+2018-09-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10283.78
+2018-10-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10297.3
+2018-11-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10310.81
+2018-12-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10324.32
+2019-01-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10337.84
+2019-02-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10351.35
+2019-03-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10364.86
+2019-04-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10378.38
+2019-05-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10391.89
+2019-06-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10405.41
+2019-07-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10418.92
+2019-08-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10432.43
+2019-09-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10445.95
+2019-10-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10459.46
+2019-11-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10472.97
+2019-12-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10486.49
+2020-01-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10500.0
+2020-02-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10500.0
+2020-03-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10500.0
+2020-04-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11033.0
+2020-05-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11500.0
+2020-06-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11500.0
+2020-07-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11500.0
+2020-08-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11500.0
+2020-09-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11500.0
+2020-10-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11000.0
+2020-11-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10881.0
+2020-12-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,10875.0
+2021-01-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11250.0
+2021-02-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11250.0
+2021-03-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11250.0
+2021-04-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11250.0
+2021-05-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11250.0
+2021-06-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11274.0
+2021-07-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11702.0
+2021-08-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2021-09-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2021-10-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11125.0
+2021-11-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11080.0
+2021-12-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11054.0
+2022-01-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-02-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-03-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-04-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-05-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-06-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-07-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-08-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11750.0
+2022-09-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11830.0
+2022-10-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11374.0
+2022-11-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11415.0
+2022-12-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,11981.0
+2023-01-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,12548.0
+2023-02-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,12525.0
+2023-03-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,13411.0
+2023-04-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,14203.0
+2023-05-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,14264.0
+2023-06-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,13964.0
+2023-07-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,13750.0
+2023-08-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,13750.0
+2023-09-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,13862.0
+2023-10-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,14688.0
+2023-11-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,14875.0
+2023-12-15,GORONTALO,Rice,KG,aggregate,Retail,IDR,14875.0
+2016-01-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12079.0
+2016-02-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12079.0
+2016-03-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12079.0
+2016-04-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12079.0
+2016-05-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12079.0
+2016-06-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12079.0
+2016-07-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12079.0
+2016-08-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11467.0
+2016-09-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11475.0
+2016-10-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11458.0
+2016-11-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11433.0
+2016-12-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11413.0
+2017-01-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11436.0
+2017-02-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11459.0
+2017-03-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11482.0
+2017-04-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11500.53
+2017-05-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11519.06
+2017-06-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11537.59
+2017-07-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11556.12
+2017-08-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11574.65
+2017-09-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11593.18
+2017-10-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11611.71
+2017-11-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11630.24
+2017-12-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11648.76
+2018-01-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11667.29
+2018-02-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11685.82
+2018-03-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11704.35
+2018-04-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11722.88
+2018-05-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11741.41
+2018-06-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11759.94
+2018-07-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11778.47
+2018-08-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11797.0
+2018-09-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11815.53
+2018-10-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11834.06
+2018-11-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11852.59
+2018-12-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11871.12
+2019-01-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11889.65
+2019-02-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11908.18
+2019-03-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11926.71
+2019-04-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11945.24
+2019-05-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11963.76
+2019-06-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11982.29
+2019-07-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12000.82
+2019-08-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12019.35
+2019-09-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12037.88
+2019-10-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12056.41
+2019-11-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12074.94
+2019-12-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12093.47
+2020-01-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12112.0
+2020-02-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12112.0
+2020-03-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11835.0
+2020-04-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2020-05-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11766.0
+2020-06-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11762.0
+2020-07-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11762.0
+2020-08-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11784.0
+2020-09-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2020-10-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2020-11-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2020-12-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2021-01-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2021-02-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2021-03-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2021-04-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11788.0
+2021-05-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11797.0
+2021-06-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2021-07-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2021-08-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2021-09-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2021-10-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2021-11-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2021-12-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2022-01-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2022-02-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2022-03-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2022-04-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11800.0
+2022-05-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11823.0
+2022-06-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11888.0
+2022-07-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11888.0
+2022-08-15,JAMBI,Rice,KG,aggregate,Retail,IDR,11919.0
+2022-09-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12205.0
+2022-10-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12461.0
+2022-11-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12797.0
+2022-12-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12812.0
+2023-01-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12825.0
+2023-02-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12899.0
+2023-03-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12938.0
+2023-04-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12938.0
+2023-05-15,JAMBI,Rice,KG,aggregate,Retail,IDR,12999.0
+2023-06-15,JAMBI,Rice,KG,aggregate,Retail,IDR,13088.0
+2023-07-15,JAMBI,Rice,KG,aggregate,Retail,IDR,13088.0
+2023-08-15,JAMBI,Rice,KG,aggregate,Retail,IDR,13217.0
+2023-09-15,JAMBI,Rice,KG,aggregate,Retail,IDR,13636.0
+2023-10-15,JAMBI,Rice,KG,aggregate,Retail,IDR,13780.0
+2023-11-15,JAMBI,Rice,KG,aggregate,Retail,IDR,13788.0
+2023-12-15,JAMBI,Rice,KG,aggregate,Retail,IDR,13788.0
+2016-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10468.0
+2016-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10468.0
+2016-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10468.0
+2016-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10468.0
+2016-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10468.0
+2016-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10468.0
+2016-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10468.0
+2016-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10412.0
+2016-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10315.0
+2016-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10288.0
+2016-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10318.0
+2016-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10333.0
+2017-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10333.33
+2017-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10333.67
+2017-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10334.0
+2017-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10361.06
+2017-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10388.12
+2017-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10415.18
+2017-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10442.24
+2017-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10469.29
+2017-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10496.35
+2017-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10523.41
+2017-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10550.47
+2017-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10577.53
+2018-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10604.59
+2018-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10631.65
+2018-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10658.71
+2018-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10685.76
+2018-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10712.82
+2018-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10739.88
+2018-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10766.94
+2018-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10794.0
+2018-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10821.06
+2018-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10848.12
+2018-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10875.18
+2018-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10902.24
+2019-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10929.29
+2019-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10956.35
+2019-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,10983.41
+2019-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11010.47
+2019-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11037.53
+2019-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11064.59
+2019-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11091.65
+2019-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11118.71
+2019-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11145.76
+2019-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11172.82
+2019-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11199.88
+2019-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11226.94
+2020-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11254.0
+2020-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11364.0
+2020-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11418.0
+2020-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11475.0
+2020-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11387.0
+2020-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11336.0
+2020-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11325.0
+2020-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11282.0
+2020-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11260.0
+2020-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11237.0
+2020-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11205.0
+2020-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11188.0
+2021-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11191.0
+2021-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11192.0
+2021-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11189.0
+2021-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11200.0
+2021-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11199.0
+2021-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11192.0
+2021-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11248.0
+2021-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11217.0
+2021-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11212.0
+2021-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11216.0
+2021-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11215.0
+2021-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11284.0
+2022-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11405.0
+2022-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11398.0
+2022-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11406.0
+2022-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11437.0
+2022-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11400.0
+2022-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11379.0
+2022-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11359.0
+2022-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11403.0
+2022-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11539.0
+2022-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11595.0
+2022-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11651.0
+2022-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11863.0
+2023-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12077.0
+2023-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12530.0
+2023-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12567.0
+2023-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12570.0
+2023-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12580.0
+2023-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12590.0
+2023-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12576.0
+2023-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12755.0
+2023-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,13867.0
+2023-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,14050.0
+2023-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,14061.0
+2023-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,13005.5
+2024-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2024-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12500.0
+2024-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12350.0
+2024-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12600.0
+2024-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12300.0
+2024-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12250.0
+2024-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12250.0
+2024-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12300.0
+2024-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12850.0
+2024-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12800.0
+2024-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12750.0
+2024-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12750.0
+2025-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12850.0
+2025-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12900.0
+2025-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12800.0
+2025-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12550.0
+2025-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12450.0
+2025-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12200.0
+2025-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12250.0
+2025-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12350.0
+2025-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12350.0
+2025-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12350.0
+2025-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11700.0
+2025-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-01-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-02-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-03-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12000.0
+2026-04-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12350.0
+2026-05-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,12450.0
+2026-06-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-07-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-08-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-09-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-10-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-11-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2026-12-15,JAWA BARAT,Rice,KG,aggregate,Retail,IDR,11950.0
+2016-01-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10099.0
+2016-02-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10099.0
+2016-03-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10099.0
+2016-04-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10099.0
+2016-05-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10099.0
+2016-06-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10099.0
+2016-07-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10099.0
+2016-08-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10009.0
+2016-09-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,9977.0
+2016-10-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,9966.0
+2016-11-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,9960.0
+2016-12-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,9980.0
+2017-01-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,9968.33
+2017-02-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,9956.67
+2017-03-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,9945.0
+2017-04-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,9974.76
+2017-05-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10004.53
+2017-06-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10034.29
+2017-07-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10064.06
+2017-08-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10093.82
+2017-09-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10123.59
+2017-10-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10153.35
+2017-11-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10183.12
+2017-12-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10212.88
+2018-01-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10242.65
+2018-02-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10272.41
+2018-03-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10302.18
+2018-04-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10331.94
+2018-05-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10361.71
+2018-06-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10391.47
+2018-07-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10421.24
+2018-08-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10451.0
+2018-09-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10480.76
+2018-10-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10510.53
+2018-11-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10540.29
+2018-12-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10570.06
+2019-01-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10599.82
+2019-02-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10629.59
+2019-03-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10659.35
+2019-04-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10689.12
+2019-05-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10718.88
+2019-06-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10748.65
+2019-07-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10778.41
+2019-08-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10808.18
+2019-09-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10837.94
+2019-10-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10867.71
+2019-11-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10897.47
+2019-12-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10927.24
+2020-01-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10957.0
+2020-02-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11003.0
+2020-03-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11017.0
+2020-04-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11044.0
+2020-05-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11035.0
+2020-06-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11007.0
+2020-07-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10983.0
+2020-08-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10955.0
+2020-09-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10947.0
+2020-10-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10944.0
+2020-11-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10946.0
+2020-12-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10943.0
+2021-01-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10928.0
+2021-02-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11001.0
+2021-03-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10891.0
+2021-04-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10815.0
+2021-05-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10820.0
+2021-06-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10823.0
+2021-07-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10786.0
+2021-08-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10713.0
+2021-09-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10730.0
+2021-10-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10731.0
+2021-11-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10745.0
+2021-12-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10809.0
+2022-01-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10972.0
+2022-02-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10989.0
+2022-03-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10960.0
+2022-04-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10951.0
+2022-05-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10968.0
+2022-06-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10940.0
+2022-07-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,10925.0
+2022-08-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11037.0
+2022-09-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11251.0
+2022-10-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11343.0
+2022-11-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11395.0
+2022-12-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,11807.0
+2023-01-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,12153.0
+2023-02-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,12639.0
+2023-03-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,12671.0
+2023-04-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,12622.0
+2023-05-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,12626.0
+2023-06-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,12569.0
+2023-07-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,12613.0
+2023-08-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,12752.0
+2023-09-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,13412.0
+2023-10-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,13680.0
+2023-11-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,13735.0
+2023-12-15,JAWA TENGAH,Rice,KG,aggregate,Retail,IDR,13735.0
+2016-01-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10256.0
+2016-02-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10256.0
+2016-03-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10256.0
+2016-04-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10256.0
+2016-05-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10256.0
+2016-06-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10256.0
+2016-07-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10256.0
+2016-08-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10013.0
+2016-09-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,9976.0
+2016-10-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,9905.0
+2016-11-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,9973.0
+2016-12-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,9981.0
+2017-01-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,9977.67
+2017-02-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,9974.33
+2017-03-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,9971.0
+2017-04-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,9991.65
+2017-05-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10012.29
+2017-06-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10032.94
+2017-07-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10053.59
+2017-08-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10074.24
+2017-09-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10094.88
+2017-10-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10115.53
+2017-11-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10136.18
+2017-12-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10156.82
+2018-01-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10177.47
+2018-02-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10198.12
+2018-03-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10218.76
+2018-04-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10239.41
+2018-05-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10260.06
+2018-06-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10280.71
+2018-07-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10301.35
+2018-08-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10322.0
+2018-09-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10342.65
+2018-10-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10363.29
+2018-11-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10383.94
+2018-12-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10404.59
+2019-01-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10425.24
+2019-02-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10445.88
+2019-03-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10466.53
+2019-04-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10487.18
+2019-05-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10507.82
+2019-06-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10528.47
+2019-07-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10549.12
+2019-08-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10569.76
+2019-09-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10590.41
+2019-10-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10611.06
+2019-11-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10631.71
+2019-12-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10652.35
+2020-01-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10673.0
+2020-02-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10730.0
+2020-03-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10749.0
+2020-04-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10750.0
+2020-05-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10694.0
+2020-06-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10651.0
+2020-07-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10606.0
+2020-08-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10544.0
+2020-09-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10528.0
+2020-10-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10565.0
+2020-11-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10523.0
+2020-12-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10509.0
+2021-01-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10512.0
+2021-02-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10484.0
+2021-03-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10445.0
+2021-04-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10373.0
+2021-05-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10365.0
+2021-06-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10318.0
+2021-07-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10224.0
+2021-08-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10187.0
+2021-09-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10194.0
+2021-10-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10201.0
+2021-11-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10242.0
+2021-12-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10346.0
+2022-01-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10516.0
+2022-02-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10558.0
+2022-03-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10574.0
+2022-04-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10558.0
+2022-05-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10553.0
+2022-06-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10493.0
+2022-07-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10517.0
+2022-08-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10700.0
+2022-09-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,10927.0
+2022-10-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,11163.0
+2022-11-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,11307.0
+2022-12-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,11649.0
+2023-01-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,11819.0
+2023-02-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,12182.0
+2023-03-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,12039.0
+2023-04-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,12130.0
+2023-05-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,12140.0
+2023-06-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,12130.0
+2023-07-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,12027.0
+2023-08-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,12282.0
+2023-09-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,13155.0
+2023-10-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,13586.0
+2023-11-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,13622.0
+2023-12-15,JAWA TIMUR,Rice,KG,aggregate,Retail,IDR,13622.0
+2016-01-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13518.0
+2016-02-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13518.0
+2016-03-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13518.0
+2016-04-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13518.0
+2016-05-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13518.0
+2016-06-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13518.0
+2016-07-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13518.0
+2016-08-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13497.0
+2016-09-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13542.0
+2016-10-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13585.0
+2016-11-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13561.0
+2016-12-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12619.0
+2017-01-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12642.0
+2017-02-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12665.0
+2017-03-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12688.0
+2017-04-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12710.62
+2017-05-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12733.24
+2017-06-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12755.85
+2017-07-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12778.47
+2017-08-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12801.09
+2017-09-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12823.71
+2017-10-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12846.32
+2017-11-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12868.94
+2017-12-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12891.56
+2018-01-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12914.18
+2018-02-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12936.79
+2018-03-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12959.41
+2018-04-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,12982.03
+2018-05-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13004.65
+2018-06-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13027.26
+2018-07-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13049.88
+2018-08-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13072.5
+2018-09-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13095.12
+2018-10-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13117.74
+2018-11-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13140.35
+2018-12-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13162.97
+2019-01-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13185.59
+2019-02-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13208.21
+2019-03-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13230.82
+2019-04-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13253.44
+2019-05-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13276.06
+2019-06-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13298.68
+2019-07-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13321.29
+2019-08-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13343.91
+2019-09-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13366.53
+2019-10-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13389.15
+2019-11-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13411.76
+2019-12-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13434.38
+2020-01-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13457.0
+2020-02-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13458.0
+2020-03-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13458.0
+2020-04-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13450.0
+2020-05-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13450.0
+2020-06-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13442.0
+2020-07-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13426.0
+2020-08-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13425.0
+2020-09-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13417.0
+2020-10-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13382.0
+2020-11-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13350.0
+2020-12-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13350.0
+2021-01-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13246.0
+2021-02-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13260.0
+2021-03-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13388.0
+2021-04-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13325.0
+2021-05-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13325.0
+2021-06-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13334.0
+2021-07-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13356.0
+2021-08-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13356.0
+2021-09-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13356.0
+2021-10-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13402.0
+2021-11-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13444.0
+2021-12-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13492.0
+2022-01-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13416.0
+2022-02-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13394.0
+2022-03-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13394.0
+2022-04-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13403.0
+2022-05-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13392.0
+2022-06-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13383.0
+2022-07-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13383.0
+2022-08-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13386.0
+2022-09-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13574.0
+2022-10-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13706.0
+2022-11-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13711.0
+2022-12-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13750.0
+2023-01-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,13899.0
+2023-02-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,14406.0
+2023-03-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,14725.0
+2023-04-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,14744.0
+2023-05-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,14745.0
+2023-06-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,14727.0
+2023-07-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,14752.0
+2023-08-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,14865.0
+2023-09-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,15398.0
+2023-10-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,15675.0
+2023-11-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,15756.0
+2023-12-15,KALIMANTAN BARAT,Rice,KG,aggregate,Retail,IDR,15756.0
+2016-01-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13894.0
+2016-02-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13894.0
+2016-03-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13894.0
+2016-04-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13894.0
+2016-05-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13894.0
+2016-06-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13894.0
+2016-07-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13894.0
+2016-08-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13869.0
+2016-09-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13788.0
+2016-10-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13982.0
+2016-11-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13952.0
+2016-12-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13925.0
+2017-01-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13783.67
+2017-02-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13642.33
+2017-03-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13501.0
+2017-04-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13483.91
+2017-05-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13466.82
+2017-06-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13449.74
+2017-07-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13432.65
+2017-08-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13415.56
+2017-09-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13398.47
+2017-10-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13381.38
+2017-11-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13364.29
+2017-12-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13347.21
+2018-01-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13330.12
+2018-02-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13313.03
+2018-03-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13295.94
+2018-04-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13278.85
+2018-05-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13261.76
+2018-06-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13244.68
+2018-07-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13227.59
+2018-08-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13210.5
+2018-09-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13193.41
+2018-10-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13176.32
+2018-11-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13159.24
+2018-12-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13142.15
+2019-01-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13125.06
+2019-02-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13107.97
+2019-03-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13090.88
+2019-04-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13073.79
+2019-05-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13056.71
+2019-06-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13039.62
+2019-07-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13022.53
+2019-08-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13005.44
+2019-09-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,12988.35
+2019-10-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,12971.26
+2019-11-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,12954.18
+2019-12-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,12937.09
+2020-01-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,12920.0
+2020-02-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,12750.0
+2020-03-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,12760.0
+2020-04-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13245.0
+2020-05-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13477.0
+2020-06-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13491.0
+2020-07-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13525.0
+2020-08-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13546.0
+2020-09-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13466.0
+2020-10-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13208.0
+2020-11-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13331.0
+2020-12-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13333.0
+2021-01-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13358.0
+2021-02-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13260.0
+2021-03-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13243.0
+2021-04-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13275.0
+2021-05-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13275.0
+2021-06-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13337.0
+2021-07-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13338.0
+2021-08-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13338.0
+2021-09-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13298.0
+2021-10-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13288.0
+2021-11-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13265.0
+2021-12-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13275.0
+2022-01-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13232.0
+2022-02-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13238.0
+2022-03-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13244.0
+2022-04-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13232.0
+2022-05-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13208.0
+2022-06-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13177.0
+2022-07-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13282.0
+2022-08-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13651.0
+2022-09-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13929.0
+2022-10-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,13993.0
+2022-11-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,14169.0
+2022-12-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,14394.0
+2023-01-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,15185.0
+2023-02-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,15840.0
+2023-03-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,15968.0
+2023-04-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,16307.0
+2023-05-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,16723.0
+2023-06-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,17172.0
+2023-07-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,17162.0
+2023-08-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,17030.0
+2023-09-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,17203.0
+2023-10-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,17691.0
+2023-11-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,17750.0
+2023-12-15,KALIMANTAN SELATAN,Rice,KG,aggregate,Retail,IDR,17750.0
+2016-01-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14179.0
+2016-02-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14179.0
+2016-03-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14179.0
+2016-04-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14179.0
+2016-05-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14179.0
+2016-06-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14179.0
+2016-07-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14179.0
+2016-08-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14175.0
+2016-09-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14157.0
+2016-10-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13812.0
+2016-11-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13801.0
+2016-12-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13296.0
+2017-01-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13384.67
+2017-02-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13473.33
+2017-03-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13562.0
+2017-04-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13558.71
+2017-05-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13555.41
+2017-06-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13552.12
+2017-07-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13548.82
+2017-08-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13545.53
+2017-09-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13542.24
+2017-10-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13538.94
+2017-11-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13535.65
+2017-12-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13532.35
+2018-01-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13529.06
+2018-02-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13525.76
+2018-03-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13522.47
+2018-04-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13519.18
+2018-05-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13515.88
+2018-06-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13512.59
+2018-07-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13509.29
+2018-08-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13506.0
+2018-09-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13502.71
+2018-10-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13499.41
+2018-11-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13496.12
+2018-12-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13492.82
+2019-01-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13489.53
+2019-02-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13486.24
+2019-03-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13482.94
+2019-04-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13479.65
+2019-05-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13476.35
+2019-06-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13473.06
+2019-07-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13469.76
+2019-08-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13466.47
+2019-09-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13463.18
+2019-10-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13459.88
+2019-11-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13456.59
+2019-12-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13453.29
+2020-01-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13450.0
+2020-02-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13644.0
+2020-03-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13717.0
+2020-04-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14079.0
+2020-05-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14265.0
+2020-06-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14243.0
+2020-07-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14220.0
+2020-08-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14229.0
+2020-09-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14128.0
+2020-10-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14058.0
+2020-11-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14100.0
+2020-12-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14092.0
+2021-01-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14125.0
+2021-02-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14109.0
+2021-03-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14093.0
+2021-04-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14165.0
+2021-05-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14189.0
+2021-06-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14163.0
+2021-07-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14221.0
+2021-08-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14142.0
+2021-09-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13999.0
+2021-10-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13862.0
+2021-11-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13846.0
+2021-12-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13820.0
+2022-01-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13963.0
+2022-02-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14125.0
+2022-03-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14121.0
+2022-04-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13968.0
+2022-05-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13929.0
+2022-06-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,13954.0
+2022-07-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14103.0
+2022-08-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14615.0
+2022-09-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14967.0
+2022-10-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,14955.0
+2022-11-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,15480.0
+2022-12-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,16236.0
+2023-01-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,16600.0
+2023-02-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,16926.0
+2023-03-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,17239.0
+2023-04-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,17663.0
+2023-05-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,18089.0
+2023-06-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,18537.0
+2023-07-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,18532.0
+2023-08-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,18219.0
+2023-09-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,18202.0
+2023-10-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,18676.0
+2023-11-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,18933.0
+2023-12-15,KALIMANTAN TENGAH,Rice,KG,aggregate,Retail,IDR,18933.0
+2016-01-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12133.0
+2016-02-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12133.0
+2016-03-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12133.0
+2016-04-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12133.0
+2016-05-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12133.0
+2016-06-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12133.0
+2016-07-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12133.0
+2016-08-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12073.0
+2016-09-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12144.0
+2016-10-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12144.0
+2016-11-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12150.0
+2016-12-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12148.0
+2017-01-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12172.0
+2017-02-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12196.0
+2017-03-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12220.0
+2017-04-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12229.97
+2017-05-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12239.94
+2017-06-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12249.91
+2017-07-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12259.88
+2017-08-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12269.85
+2017-09-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12279.82
+2017-10-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12289.79
+2017-11-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12299.76
+2017-12-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12309.74
+2018-01-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12319.71
+2018-02-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12329.68
+2018-03-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12339.65
+2018-04-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12349.62
+2018-05-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12359.59
+2018-06-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12369.56
+2018-07-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12379.53
+2018-08-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12389.5
+2018-09-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12399.47
+2018-10-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12409.44
+2018-11-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12419.41
+2018-12-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12429.38
+2019-01-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12439.35
+2019-02-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12449.32
+2019-03-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12459.29
+2019-04-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12469.26
+2019-05-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12479.24
+2019-06-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12489.21
+2019-07-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12499.18
+2019-08-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12509.15
+2019-09-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12519.12
+2019-10-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12529.09
+2019-11-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12539.06
+2019-12-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12549.03
+2020-01-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12559.0
+2020-02-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12339.0
+2020-03-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12352.0
+2020-04-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12317.0
+2020-05-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12327.0
+2020-06-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12399.0
+2020-07-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12450.0
+2020-08-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12480.0
+2020-09-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12458.0
+2020-10-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12380.0
+2020-11-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12389.0
+2020-12-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12332.0
+2021-01-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12329.0
+2021-02-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12344.0
+2021-03-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12334.0
+2021-04-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12407.0
+2021-05-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12344.0
+2021-06-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12348.0
+2021-07-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12222.0
+2021-08-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12144.0
+2021-09-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12145.0
+2021-10-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12137.0
+2021-11-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12108.0
+2021-12-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12136.0
+2022-01-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12255.0
+2022-02-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12294.0
+2022-03-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12305.0
+2022-04-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12311.0
+2022-05-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12378.0
+2022-06-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12375.0
+2022-07-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12381.0
+2022-08-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12436.0
+2022-09-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12563.0
+2022-10-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12511.0
+2022-11-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12490.0
+2022-12-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12758.0
+2023-01-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,12968.0
+2023-02-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,13356.0
+2023-03-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,13800.0
+2023-04-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,13970.0
+2023-05-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,14083.0
+2023-06-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,14132.0
+2023-07-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,14258.0
+2023-08-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,14319.0
+2023-09-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,14530.0
+2023-10-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,15089.0
+2023-11-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,15150.0
+2023-12-15,KALIMANTAN TIMUR,Rice,KG,aggregate,Retail,IDR,15150.0
+2016-01-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2016-02-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2016-03-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2016-04-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2016-05-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2016-06-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2016-07-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2016-08-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12598.0
+2016-09-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12641.0
+2016-10-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12575.0
+2016-11-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12554.0
+2016-12-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12653.0
+2017-01-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12622.0
+2017-02-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12591.0
+2017-03-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12560.0
+2017-04-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12583.0
+2017-05-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12606.0
+2017-06-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12629.0
+2017-07-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12652.0
+2017-08-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2017-09-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12698.0
+2017-10-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2017-11-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12744.0
+2017-12-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12767.0
+2018-01-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12790.0
+2018-02-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12813.0
+2018-03-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12836.0
+2018-04-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12859.0
+2018-05-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12882.0
+2018-06-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12905.0
+2018-07-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12928.0
+2018-08-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12951.0
+2018-09-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12974.0
+2018-10-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,12997.0
+2018-11-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13020.0
+2018-12-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13043.0
+2019-01-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13066.0
+2019-02-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13089.0
+2019-03-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13112.0
+2019-04-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13135.0
+2019-05-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13158.0
+2019-06-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13181.0
+2019-07-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13204.0
+2019-08-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13227.0
+2019-09-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13250.0
+2019-10-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13273.0
+2019-11-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13296.0
+2019-12-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13319.0
+2020-01-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13342.0
+2020-02-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13349.0
+2020-03-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13350.0
+2020-04-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13350.0
+2020-05-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13360.0
+2020-06-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13379.0
+2020-07-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13388.0
+2020-08-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13388.0
+2020-09-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13388.0
+2020-10-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13388.0
+2020-11-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13388.0
+2020-12-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13389.0
+2021-01-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13642.0
+2021-02-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13700.0
+2021-03-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13703.0
+2021-04-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13712.0
+2021-05-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13687.0
+2021-06-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13712.0
+2021-07-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13716.0
+2021-08-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13493.0
+2021-09-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13562.0
+2021-10-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13539.0
+2021-11-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13507.0
+2021-12-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13513.0
+2022-01-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13392.0
+2022-02-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13420.0
+2022-03-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13432.0
+2022-04-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13453.0
+2022-05-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13462.0
+2022-06-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13425.0
+2022-07-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13404.0
+2022-08-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13399.0
+2022-09-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13412.0
+2022-10-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13598.0
+2022-11-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13568.0
+2022-12-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,13830.0
+2023-01-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14128.0
+2023-02-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14346.0
+2023-03-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14436.0
+2023-04-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14521.0
+2023-05-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14448.0
+2023-06-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14503.0
+2023-07-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14560.0
+2023-08-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14615.0
+2023-09-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,14894.0
+2023-10-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,15609.0
+2023-11-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,15912.0
+2023-12-15,KALIMANTAN UTARA,Rice,KG,aggregate,Retail,IDR,15912.0
+2016-01-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-02-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-03-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-04-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-05-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-06-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-07-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-08-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-09-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11250.0
+2016-10-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11236.0
+2016-11-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11238.0
+2016-12-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11342.0
+2017-01-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11257.67
+2017-02-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11173.33
+2017-03-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11089.0
+2017-04-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11111.56
+2017-05-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11134.12
+2017-06-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11156.68
+2017-07-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11179.24
+2017-08-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11201.79
+2017-09-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11224.35
+2017-10-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11246.91
+2017-11-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11269.47
+2017-12-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11292.03
+2018-01-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11314.59
+2018-02-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11337.15
+2018-03-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11359.71
+2018-04-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11382.26
+2018-05-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11404.82
+2018-06-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11427.38
+2018-07-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11449.94
+2018-08-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11472.5
+2018-09-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11495.06
+2018-10-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11517.62
+2018-11-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11540.18
+2018-12-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11562.74
+2019-01-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11585.29
+2019-02-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11607.85
+2019-03-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11630.41
+2019-04-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11652.97
+2019-05-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11675.53
+2019-06-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11698.09
+2019-07-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11720.65
+2019-08-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11743.21
+2019-09-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11765.76
+2019-10-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11788.32
+2019-11-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11810.88
+2019-12-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11833.44
+2020-01-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11856.0
+2020-02-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11912.0
+2020-03-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11928.0
+2020-04-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,12010.0
+2020-05-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,12020.0
+2020-06-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,12000.0
+2020-07-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11956.0
+2020-08-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11897.0
+2020-09-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11871.0
+2020-10-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11835.0
+2020-11-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11817.0
+2020-12-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11760.0
+2021-01-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11726.0
+2021-02-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11702.0
+2021-03-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11588.0
+2021-04-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11599.0
+2021-05-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11612.0
+2021-06-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11623.0
+2021-07-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11638.0
+2021-08-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11430.0
+2021-09-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11381.0
+2021-10-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11375.0
+2021-11-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11375.0
+2021-12-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11390.0
+2022-01-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11514.0
+2022-02-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11643.0
+2022-03-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11668.0
+2022-04-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11675.0
+2022-05-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11681.0
+2022-06-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11671.0
+2022-07-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11672.0
+2022-08-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11693.0
+2022-09-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11785.0
+2022-10-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11800.0
+2022-11-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,11838.0
+2022-12-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,12047.0
+2023-01-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,12266.0
+2023-02-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,12431.0
+2023-03-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,12625.0
+2023-04-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,13060.0
+2023-05-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,13098.0
+2023-06-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,13101.0
+2023-07-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,13128.0
+2023-08-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,13291.0
+2023-09-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,13834.0
+2023-10-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,14390.0
+2023-11-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,14462.0
+2023-12-15,KEPULAUAN BANGKA BELITUNG,Rice,KG,aggregate,Retail,IDR,14462.0
+2016-01-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-02-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-03-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-04-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-05-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-06-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-07-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-08-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12687.0
+2016-09-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12827.0
+2016-10-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12596.0
+2016-11-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12450.0
+2016-12-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12456.0
+2017-01-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12593.67
+2017-02-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12731.33
+2017-03-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12869.0
+2017-04-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12877.85
+2017-05-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12886.71
+2017-06-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12895.56
+2017-07-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12904.41
+2017-08-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12913.26
+2017-09-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12922.12
+2017-10-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12930.97
+2017-11-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12939.82
+2017-12-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12948.68
+2018-01-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12957.53
+2018-02-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12966.38
+2018-03-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12975.24
+2018-04-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12984.09
+2018-05-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12992.94
+2018-06-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13001.79
+2018-07-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13010.65
+2018-08-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13019.5
+2018-09-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13028.35
+2018-10-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13037.21
+2018-11-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13046.06
+2018-12-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13054.91
+2019-01-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13063.76
+2019-02-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13072.62
+2019-03-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13081.47
+2019-04-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13090.32
+2019-05-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13099.18
+2019-06-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13108.03
+2019-07-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13116.88
+2019-08-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13125.74
+2019-09-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13134.59
+2019-10-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13143.44
+2019-11-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13152.29
+2019-12-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13161.15
+2020-01-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13170.0
+2020-02-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13170.0
+2020-03-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13168.0
+2020-04-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13170.0
+2020-05-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13170.0
+2020-06-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13071.0
+2020-07-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13030.0
+2020-08-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13155.0
+2020-09-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13470.0
+2020-10-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13510.0
+2020-11-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13363.0
+2020-12-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13230.0
+2021-01-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13216.0
+2021-02-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13124.0
+2021-03-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13080.0
+2021-04-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13080.0
+2021-05-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13080.0
+2021-06-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13051.0
+2021-07-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13050.0
+2021-08-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13050.0
+2021-09-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13374.0
+2021-10-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13438.0
+2021-11-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13457.0
+2021-12-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13530.0
+2022-01-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13080.0
+2022-02-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12990.0
+2022-03-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12990.0
+2022-04-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12990.0
+2022-05-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12953.0
+2022-06-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12914.0
+2022-07-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12910.0
+2022-08-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12830.0
+2022-09-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12690.0
+2022-10-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12690.0
+2022-11-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12721.0
+2022-12-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13035.0
+2023-01-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,12896.0
+2023-02-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13063.0
+2023-03-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13040.0
+2023-04-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13040.0
+2023-05-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13119.0
+2023-06-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13335.0
+2023-07-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13268.0
+2023-08-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13301.0
+2023-09-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,13897.0
+2023-10-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,14219.0
+2023-11-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,14230.0
+2023-12-15,KEPULAUAN RIAU,Rice,KG,aggregate,Retail,IDR,14230.0
+2016-01-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11096.0
+2016-02-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11096.0
+2016-03-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11096.0
+2016-04-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11096.0
+2016-05-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11096.0
+2016-06-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11096.0
+2016-07-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11096.0
+2016-08-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11125.0
+2016-09-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11175.0
+2016-10-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10578.0
+2016-11-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10571.0
+2016-12-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10593.0
+2017-01-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10599.0
+2017-02-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10605.0
+2017-03-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10611.0
+2017-04-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10634.79
+2017-05-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10658.59
+2017-06-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10682.38
+2017-07-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10706.18
+2017-08-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10729.97
+2017-09-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10753.76
+2017-10-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10777.56
+2017-11-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10801.35
+2017-12-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10825.15
+2018-01-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10848.94
+2018-02-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10872.74
+2018-03-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10896.53
+2018-04-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10920.32
+2018-05-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10944.12
+2018-06-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10967.91
+2018-07-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10991.71
+2018-08-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11015.5
+2018-09-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11039.29
+2018-10-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11063.09
+2018-11-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11086.88
+2018-12-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11110.68
+2019-01-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11134.47
+2019-02-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11158.26
+2019-03-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11182.06
+2019-04-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11205.85
+2019-05-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11229.65
+2019-06-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11253.44
+2019-07-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11277.24
+2019-08-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11301.03
+2019-09-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11324.82
+2019-10-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11348.62
+2019-11-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11372.41
+2019-12-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11396.21
+2020-01-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11420.0
+2020-02-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11453.0
+2020-03-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11523.0
+2020-04-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11525.0
+2020-05-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11448.0
+2020-06-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11369.0
+2020-07-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11299.0
+2020-08-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11285.0
+2020-09-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11248.0
+2020-10-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11282.0
+2020-11-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11211.0
+2020-12-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11211.0
+2021-01-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11228.0
+2021-02-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11236.0
+2021-03-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11203.0
+2021-04-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11017.0
+2021-05-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,10985.0
+2021-06-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11023.0
+2021-07-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11074.0
+2021-08-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11092.0
+2021-09-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11100.0
+2021-10-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11100.0
+2021-11-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11112.0
+2021-12-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11164.0
+2022-01-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11309.0
+2022-02-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11375.0
+2022-03-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11380.0
+2022-04-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11384.0
+2022-05-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11312.0
+2022-06-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11313.0
+2022-07-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11295.0
+2022-08-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11407.0
+2022-09-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11447.0
+2022-10-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11618.0
+2022-11-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11632.0
+2022-12-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,11755.0
+2023-01-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12031.0
+2023-02-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12306.0
+2023-03-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12438.0
+2023-04-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12346.0
+2023-05-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12333.0
+2023-06-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12307.0
+2023-07-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12338.0
+2023-08-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12543.0
+2023-09-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,12993.0
+2023-10-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,13418.0
+2023-11-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,13562.0
+2023-12-15,LAMPUNG,Rice,KG,aggregate,Retail,IDR,13562.0
+2016-01-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12362.0
+2016-02-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12362.0
+2016-03-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12362.0
+2016-04-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12362.0
+2016-05-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12362.0
+2016-06-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12362.0
+2016-07-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12362.0
+2016-08-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12379.0
+2016-09-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12291.0
+2016-10-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12212.0
+2016-11-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12212.0
+2016-12-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12196.0
+2017-01-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12184.67
+2017-02-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12173.33
+2017-03-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12162.0
+2017-04-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12180.82
+2017-05-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12199.65
+2017-06-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12218.47
+2017-07-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12237.29
+2017-08-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12256.12
+2017-09-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12274.94
+2017-10-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12293.76
+2017-11-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12312.59
+2017-12-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12331.41
+2018-01-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12350.24
+2018-02-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12369.06
+2018-03-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12387.88
+2018-04-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12406.71
+2018-05-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12425.53
+2018-06-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12444.35
+2018-07-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12463.18
+2018-08-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12482.0
+2018-09-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12500.82
+2018-10-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12519.65
+2018-11-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12538.47
+2018-12-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12557.29
+2019-01-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12576.12
+2019-02-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12594.94
+2019-03-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12613.76
+2019-04-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12632.59
+2019-05-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12651.41
+2019-06-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12670.24
+2019-07-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12689.06
+2019-08-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12707.88
+2019-09-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12726.71
+2019-10-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12745.53
+2019-11-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12764.35
+2019-12-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12783.18
+2020-01-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12802.0
+2020-02-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12812.0
+2020-03-15,MALUKU,Rice,KG,aggregate,Retail,IDR,12820.0
+2020-04-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13038.0
+2020-05-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13117.0
+2020-06-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13228.0
+2020-07-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13152.0
+2020-08-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13150.0
+2020-09-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13150.0
+2020-10-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13150.0
+2020-11-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13158.0
+2020-12-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13162.0
+2021-01-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13173.0
+2021-02-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13179.0
+2021-03-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13144.0
+2021-04-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13152.0
+2021-05-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13145.0
+2021-06-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13127.0
+2021-07-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13112.0
+2021-08-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13112.0
+2021-09-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13135.0
+2021-10-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13138.0
+2021-11-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13125.0
+2021-12-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13124.0
+2022-01-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13125.0
+2022-02-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13142.0
+2022-03-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13143.0
+2022-04-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13123.0
+2022-05-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13124.0
+2022-06-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13182.0
+2022-07-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13173.0
+2022-08-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13175.0
+2022-09-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13138.0
+2022-10-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13124.0
+2022-11-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13112.0
+2022-12-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13260.0
+2023-01-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13653.0
+2023-02-15,MALUKU,Rice,KG,aggregate,Retail,IDR,13876.0
+2023-03-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14201.0
+2023-04-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14479.0
+2023-05-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14681.0
+2023-06-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14635.0
+2023-07-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14691.0
+2023-08-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14051.0
+2023-09-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14417.0
+2023-10-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14819.0
+2023-11-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14912.0
+2023-12-15,MALUKU,Rice,KG,aggregate,Retail,IDR,14912.0
+2016-01-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,11783.0
+2016-02-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,11783.0
+2016-03-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,11783.0
+2016-04-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,11783.0
+2016-05-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,11783.0
+2016-06-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,11783.0
+2016-07-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,11783.0
+2016-08-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,11950.0
+2016-09-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12101.0
+2016-10-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12125.0
+2016-11-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12125.0
+2016-12-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12125.0
+2017-01-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12145.33
+2017-02-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12165.67
+2017-03-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12186.0
+2017-04-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12210.71
+2017-05-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12235.41
+2017-06-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12260.12
+2017-07-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12284.82
+2017-08-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12309.53
+2017-09-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12334.24
+2017-10-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12358.94
+2017-11-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12383.65
+2017-12-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12408.35
+2018-01-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12433.06
+2018-02-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12457.76
+2018-03-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12482.47
+2018-04-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12507.18
+2018-05-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12531.88
+2018-06-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12556.59
+2018-07-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12581.29
+2018-08-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12606.0
+2018-09-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12630.71
+2018-10-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12655.41
+2018-11-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12680.12
+2018-12-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12704.82
+2019-01-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12729.53
+2019-02-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12754.24
+2019-03-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12778.94
+2019-04-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12803.65
+2019-05-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12828.35
+2019-06-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12853.06
+2019-07-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12877.76
+2019-08-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12902.47
+2019-09-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12927.18
+2019-10-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12951.88
+2019-11-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12976.59
+2019-12-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,13001.29
+2020-01-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,13026.0
+2020-02-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12975.0
+2020-03-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12989.0
+2020-04-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,13000.0
+2020-05-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,13000.0
+2020-06-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12961.0
+2020-07-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12790.0
+2020-08-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12721.0
+2020-09-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2020-10-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2020-11-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12652.0
+2020-12-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12650.0
+2021-01-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12650.0
+2021-02-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12650.0
+2021-03-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12653.0
+2021-04-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12663.0
+2021-05-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2021-06-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2021-07-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2021-08-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2021-09-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2021-10-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2021-11-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12675.0
+2021-12-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12670.0
+2022-01-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12650.0
+2022-02-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12650.0
+2022-03-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12651.0
+2022-04-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12650.0
+2022-05-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12650.0
+2022-06-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12645.0
+2022-07-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12625.0
+2022-08-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12625.0
+2022-09-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12625.0
+2022-10-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12625.0
+2022-11-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12625.0
+2022-12-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,12911.0
+2023-01-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,13123.0
+2023-02-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,13584.0
+2023-03-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,13823.0
+2023-04-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,14401.0
+2023-05-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,14475.0
+2023-06-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,14634.0
+2023-07-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,14825.0
+2023-08-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,14848.0
+2023-09-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,15014.0
+2023-10-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,15601.0
+2023-11-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,15601.0
+2023-12-15,MALUKU UTARA,Rice,KG,aggregate,Retail,IDR,15601.0
+2016-01-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9125.0
+2016-02-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9125.0
+2016-03-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9125.0
+2016-04-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9125.0
+2016-05-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9125.0
+2016-06-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9125.0
+2016-07-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9125.0
+2016-08-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9130.0
+2016-09-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9076.0
+2016-10-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9075.0
+2016-11-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9057.0
+2016-12-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9193.0
+2017-01-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9049.33
+2017-02-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,8905.67
+2017-03-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,8762.0
+2017-04-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,8800.79
+2017-05-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,8839.59
+2017-06-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,8878.38
+2017-07-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,8917.18
+2017-08-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,8955.97
+2017-09-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,8994.76
+2017-10-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9033.56
+2017-11-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9072.35
+2017-12-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9111.15
+2018-01-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9149.94
+2018-02-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9188.74
+2018-03-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9227.53
+2018-04-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9266.32
+2018-05-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9305.12
+2018-06-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9343.91
+2018-07-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9382.71
+2018-08-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9421.5
+2018-09-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9460.29
+2018-10-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9499.09
+2018-11-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9537.88
+2018-12-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9576.68
+2019-01-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9615.47
+2019-02-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9654.26
+2019-03-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9693.06
+2019-04-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9731.85
+2019-05-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9770.65
+2019-06-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9809.44
+2019-07-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9848.24
+2019-08-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9887.03
+2019-09-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9925.82
+2019-10-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9964.62
+2019-11-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10003.41
+2019-12-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10042.21
+2020-01-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10081.0
+2020-02-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10188.0
+2020-03-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10211.0
+2020-04-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9762.0
+2020-05-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9291.0
+2020-06-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9168.0
+2020-07-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9360.0
+2020-08-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9637.0
+2020-09-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9714.0
+2020-10-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10040.0
+2020-11-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10258.0
+2020-12-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10190.0
+2021-01-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10226.0
+2021-02-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10212.0
+2021-03-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10123.0
+2021-04-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9581.0
+2021-05-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9328.0
+2021-06-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9314.0
+2021-07-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9429.0
+2021-08-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9440.0
+2021-09-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9365.0
+2021-10-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9290.0
+2021-11-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9292.0
+2021-12-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9381.0
+2022-01-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9631.0
+2022-02-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9625.0
+2022-03-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9456.0
+2022-04-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9306.0
+2022-05-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9256.0
+2022-06-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9131.0
+2022-07-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9110.0
+2022-08-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9454.0
+2022-09-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,9917.0
+2022-10-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10150.0
+2022-11-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10264.0
+2022-12-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10313.0
+2023-01-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10771.0
+2023-02-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,11196.0
+2023-03-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10592.0
+2023-04-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10774.0
+2023-05-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10796.0
+2023-06-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10846.0
+2023-07-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,10869.0
+2023-08-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,11192.0
+2023-09-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,12509.0
+2023-10-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,13019.0
+2023-11-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,13050.0
+2023-12-15,NUSA TENGGARA BARAT,Rice,KG,aggregate,Retail,IDR,13050.0
+2016-01-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10997.0
+2016-02-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10997.0
+2016-03-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10997.0
+2016-04-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10997.0
+2016-05-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10997.0
+2016-06-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10997.0
+2016-07-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10997.0
+2016-08-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10913.0
+2016-09-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10806.0
+2016-10-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10785.0
+2016-11-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10788.0
+2016-12-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10757.0
+2017-01-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,10888.67
+2017-02-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11020.33
+2017-03-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11152.0
+2017-04-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11164.53
+2017-05-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11177.06
+2017-06-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11189.59
+2017-07-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11202.12
+2017-08-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11214.65
+2017-09-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11227.18
+2017-10-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11239.71
+2017-11-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11252.24
+2017-12-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11264.76
+2018-01-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11277.29
+2018-02-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11289.82
+2018-03-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11302.35
+2018-04-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11314.88
+2018-05-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11327.41
+2018-06-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11339.94
+2018-07-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11352.47
+2018-08-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11365.0
+2018-09-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11377.53
+2018-10-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11390.06
+2018-11-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11402.59
+2018-12-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11415.12
+2019-01-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11427.65
+2019-02-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11440.18
+2019-03-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11452.71
+2019-04-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11465.24
+2019-05-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11477.76
+2019-06-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11490.29
+2019-07-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11502.82
+2019-08-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11515.35
+2019-09-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11527.88
+2019-10-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11540.41
+2019-11-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11552.94
+2019-12-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11565.47
+2020-01-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11578.0
+2020-02-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11621.0
+2020-03-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11612.0
+2020-04-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11703.0
+2020-05-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11738.0
+2020-06-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11689.0
+2020-07-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11662.0
+2020-08-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11662.0
+2020-09-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11662.0
+2020-10-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11662.0
+2020-11-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11662.0
+2020-12-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11662.0
+2021-01-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11655.0
+2021-02-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11290.0
+2021-03-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11317.0
+2021-04-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11313.0
+2021-05-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11300.0
+2021-06-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11307.0
+2021-07-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11292.0
+2021-08-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11288.0
+2021-09-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11289.0
+2021-10-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11292.0
+2021-11-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11292.0
+2021-12-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11288.0
+2022-01-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11360.0
+2022-02-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11433.0
+2022-03-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11422.0
+2022-04-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11417.0
+2022-05-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11417.0
+2022-06-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11401.0
+2022-07-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11375.0
+2022-08-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11375.0
+2022-09-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11375.0
+2022-10-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11391.0
+2022-11-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11542.0
+2022-12-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11542.0
+2023-01-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,11697.0
+2023-02-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,12323.0
+2023-03-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,13898.0
+2023-04-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14181.0
+2023-05-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14230.0
+2023-06-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14297.0
+2023-07-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14320.0
+2023-08-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14224.0
+2023-09-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14465.0
+2023-10-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14803.0
+2023-11-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14875.0
+2023-12-15,NUSA TENGGARA TIMUR,Rice,KG,aggregate,Retail,IDR,14875.0
+2016-01-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12700.0
+2016-02-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12700.0
+2016-03-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12700.0
+2016-04-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12700.0
+2016-05-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12700.0
+2016-06-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12700.0
+2016-07-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12700.0
+2016-08-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12844.0
+2016-09-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11358.0
+2016-10-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11392.0
+2016-11-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11405.0
+2016-12-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11444.0
+2017-01-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11446.0
+2017-02-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11448.0
+2017-03-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11450.0
+2017-04-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11479.62
+2017-05-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11509.24
+2017-06-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11538.85
+2017-07-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11568.47
+2017-08-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11598.09
+2017-09-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11627.71
+2017-10-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11657.32
+2017-11-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11686.94
+2017-12-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11716.56
+2018-01-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11746.18
+2018-02-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11775.79
+2018-03-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11805.41
+2018-04-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11835.03
+2018-05-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11864.65
+2018-06-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11894.26
+2018-07-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11923.88
+2018-08-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11953.5
+2018-09-15,PAPUA,Rice,KG,aggregate,Retail,IDR,11983.12
+2018-10-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12012.74
+2018-11-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12042.35
+2018-12-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12071.97
+2019-01-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12101.59
+2019-02-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12131.21
+2019-03-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12160.82
+2019-04-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12190.44
+2019-05-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12220.06
+2019-06-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12249.68
+2019-07-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12279.29
+2019-08-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12308.91
+2019-09-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12338.53
+2019-10-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12368.15
+2019-11-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12397.76
+2019-12-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12427.38
+2020-01-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12457.0
+2020-02-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12467.0
+2020-03-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12502.0
+2020-04-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12526.0
+2020-05-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12567.0
+2020-06-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12583.0
+2020-07-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12583.0
+2020-08-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12585.0
+2020-09-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12487.0
+2020-10-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12492.0
+2020-11-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12475.0
+2020-12-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12643.0
+2021-01-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12548.0
+2021-02-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12466.0
+2021-03-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12446.0
+2021-04-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12357.0
+2021-05-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12358.0
+2021-06-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12349.0
+2021-07-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12319.0
+2021-08-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12301.0
+2021-09-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12282.0
+2021-10-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12303.0
+2021-11-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12365.0
+2021-12-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12371.0
+2022-01-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12382.0
+2022-02-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12429.0
+2022-03-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12488.0
+2022-04-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12599.0
+2022-05-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12599.0
+2022-06-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12585.0
+2022-07-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12584.0
+2022-08-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12542.0
+2022-09-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12572.0
+2022-10-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12649.0
+2022-11-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12635.0
+2022-12-15,PAPUA,Rice,KG,aggregate,Retail,IDR,12660.0
+2023-01-15,PAPUA,Rice,KG,aggregate,Retail,IDR,13444.0
+2023-02-15,PAPUA,Rice,KG,aggregate,Retail,IDR,13654.0
+2023-03-15,PAPUA,Rice,KG,aggregate,Retail,IDR,13739.0
+2023-04-15,PAPUA,Rice,KG,aggregate,Retail,IDR,13884.0
+2023-05-15,PAPUA,Rice,KG,aggregate,Retail,IDR,14061.0
+2023-06-15,PAPUA,Rice,KG,aggregate,Retail,IDR,14730.0
+2023-07-15,PAPUA,Rice,KG,aggregate,Retail,IDR,14639.0
+2023-08-15,PAPUA,Rice,KG,aggregate,Retail,IDR,14651.0
+2023-09-15,PAPUA,Rice,KG,aggregate,Retail,IDR,14784.0
+2023-10-15,PAPUA,Rice,KG,aggregate,Retail,IDR,14958.0
+2023-11-15,PAPUA,Rice,KG,aggregate,Retail,IDR,15038.0
+2023-12-15,PAPUA,Rice,KG,aggregate,Retail,IDR,15038.0
+2016-01-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12725.0
+2016-02-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12725.0
+2016-03-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12725.0
+2016-04-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12725.0
+2016-05-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12725.0
+2016-06-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12725.0
+2016-07-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12725.0
+2016-08-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12762.0
+2016-09-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12610.0
+2016-10-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-11-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12662.0
+2016-12-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12659.0
+2017-01-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12738.33
+2017-02-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12817.67
+2017-03-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12897.0
+2017-04-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12898.29
+2017-05-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12899.59
+2017-06-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12900.88
+2017-07-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12902.18
+2017-08-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12903.47
+2017-09-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12904.76
+2017-10-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12906.06
+2017-11-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12907.35
+2017-12-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12908.65
+2018-01-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12909.94
+2018-02-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12911.24
+2018-03-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12912.53
+2018-04-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12913.82
+2018-05-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12915.12
+2018-06-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12916.41
+2018-07-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12917.71
+2018-08-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12919.0
+2018-09-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12920.29
+2018-10-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12921.59
+2018-11-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12922.88
+2018-12-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12924.18
+2019-01-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12925.47
+2019-02-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12926.76
+2019-03-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12928.06
+2019-04-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12929.35
+2019-05-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12930.65
+2019-06-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12931.94
+2019-07-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12933.24
+2019-08-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12934.53
+2019-09-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12935.82
+2019-10-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12937.12
+2019-11-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12938.41
+2019-12-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12939.71
+2020-01-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12941.0
+2020-02-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12912.0
+2020-03-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12894.0
+2020-04-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12770.0
+2020-05-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12808.0
+2020-06-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12763.0
+2020-07-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12782.0
+2020-08-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12366.0
+2020-09-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12462.0
+2020-10-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12462.0
+2020-11-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12462.0
+2020-12-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12462.0
+2021-01-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12851.0
+2021-02-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12915.0
+2021-03-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13125.0
+2021-04-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13125.0
+2021-05-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13125.0
+2021-06-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13125.0
+2021-07-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13025.0
+2021-08-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12975.0
+2021-09-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12975.0
+2021-10-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12975.0
+2021-11-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12975.0
+2021-12-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,12944.0
+2022-01-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13029.0
+2022-02-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13148.0
+2022-03-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13175.0
+2022-04-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13175.0
+2022-05-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13175.0
+2022-06-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13175.0
+2022-07-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13192.0
+2022-08-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13168.0
+2022-09-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13175.0
+2022-10-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13175.0
+2022-11-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13175.0
+2022-12-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13235.0
+2023-01-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13519.0
+2023-02-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13714.0
+2023-03-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,13890.0
+2023-04-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,14005.0
+2023-05-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,14185.0
+2023-06-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,14300.0
+2023-07-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,14342.0
+2023-08-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,14395.0
+2023-09-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,14716.0
+2023-10-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,15092.0
+2023-11-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,15162.0
+2023-12-15,PAPUA BARAT,Rice,KG,aggregate,Retail,IDR,15162.0
+2016-01-15,RIAU,Rice,KG,aggregate,Retail,IDR,11380.0
+2016-02-15,RIAU,Rice,KG,aggregate,Retail,IDR,11380.0
+2016-03-15,RIAU,Rice,KG,aggregate,Retail,IDR,11380.0
+2016-04-15,RIAU,Rice,KG,aggregate,Retail,IDR,11380.0
+2016-05-15,RIAU,Rice,KG,aggregate,Retail,IDR,11380.0
+2016-06-15,RIAU,Rice,KG,aggregate,Retail,IDR,11380.0
+2016-07-15,RIAU,Rice,KG,aggregate,Retail,IDR,11380.0
+2016-08-15,RIAU,Rice,KG,aggregate,Retail,IDR,11729.0
+2016-09-15,RIAU,Rice,KG,aggregate,Retail,IDR,11798.0
+2016-10-15,RIAU,Rice,KG,aggregate,Retail,IDR,11769.0
+2016-11-15,RIAU,Rice,KG,aggregate,Retail,IDR,11850.0
+2016-12-15,RIAU,Rice,KG,aggregate,Retail,IDR,11900.0
+2017-01-15,RIAU,Rice,KG,aggregate,Retail,IDR,11905.67
+2017-02-15,RIAU,Rice,KG,aggregate,Retail,IDR,11911.33
+2017-03-15,RIAU,Rice,KG,aggregate,Retail,IDR,11917.0
+2017-04-15,RIAU,Rice,KG,aggregate,Retail,IDR,11938.62
+2017-05-15,RIAU,Rice,KG,aggregate,Retail,IDR,11960.24
+2017-06-15,RIAU,Rice,KG,aggregate,Retail,IDR,11981.85
+2017-07-15,RIAU,Rice,KG,aggregate,Retail,IDR,12003.47
+2017-08-15,RIAU,Rice,KG,aggregate,Retail,IDR,12025.09
+2017-09-15,RIAU,Rice,KG,aggregate,Retail,IDR,12046.71
+2017-10-15,RIAU,Rice,KG,aggregate,Retail,IDR,12068.32
+2017-11-15,RIAU,Rice,KG,aggregate,Retail,IDR,12089.94
+2017-12-15,RIAU,Rice,KG,aggregate,Retail,IDR,12111.56
+2018-01-15,RIAU,Rice,KG,aggregate,Retail,IDR,12133.18
+2018-02-15,RIAU,Rice,KG,aggregate,Retail,IDR,12154.79
+2018-03-15,RIAU,Rice,KG,aggregate,Retail,IDR,12176.41
+2018-04-15,RIAU,Rice,KG,aggregate,Retail,IDR,12198.03
+2018-05-15,RIAU,Rice,KG,aggregate,Retail,IDR,12219.65
+2018-06-15,RIAU,Rice,KG,aggregate,Retail,IDR,12241.26
+2018-07-15,RIAU,Rice,KG,aggregate,Retail,IDR,12262.88
+2018-08-15,RIAU,Rice,KG,aggregate,Retail,IDR,12284.5
+2018-09-15,RIAU,Rice,KG,aggregate,Retail,IDR,12306.12
+2018-10-15,RIAU,Rice,KG,aggregate,Retail,IDR,12327.74
+2018-11-15,RIAU,Rice,KG,aggregate,Retail,IDR,12349.35
+2018-12-15,RIAU,Rice,KG,aggregate,Retail,IDR,12370.97
+2019-01-15,RIAU,Rice,KG,aggregate,Retail,IDR,12392.59
+2019-02-15,RIAU,Rice,KG,aggregate,Retail,IDR,12414.21
+2019-03-15,RIAU,Rice,KG,aggregate,Retail,IDR,12435.82
+2019-04-15,RIAU,Rice,KG,aggregate,Retail,IDR,12457.44
+2019-05-15,RIAU,Rice,KG,aggregate,Retail,IDR,12479.06
+2019-06-15,RIAU,Rice,KG,aggregate,Retail,IDR,12500.68
+2019-07-15,RIAU,Rice,KG,aggregate,Retail,IDR,12522.29
+2019-08-15,RIAU,Rice,KG,aggregate,Retail,IDR,12543.91
+2019-09-15,RIAU,Rice,KG,aggregate,Retail,IDR,12565.53
+2019-10-15,RIAU,Rice,KG,aggregate,Retail,IDR,12587.15
+2019-11-15,RIAU,Rice,KG,aggregate,Retail,IDR,12608.76
+2019-12-15,RIAU,Rice,KG,aggregate,Retail,IDR,12630.38
+2020-01-15,RIAU,Rice,KG,aggregate,Retail,IDR,12652.0
+2020-02-15,RIAU,Rice,KG,aggregate,Retail,IDR,12649.0
+2020-03-15,RIAU,Rice,KG,aggregate,Retail,IDR,12620.0
+2020-04-15,RIAU,Rice,KG,aggregate,Retail,IDR,12669.0
+2020-05-15,RIAU,Rice,KG,aggregate,Retail,IDR,12734.0
+2020-06-15,RIAU,Rice,KG,aggregate,Retail,IDR,12584.0
+2020-07-15,RIAU,Rice,KG,aggregate,Retail,IDR,12542.0
+2020-08-15,RIAU,Rice,KG,aggregate,Retail,IDR,12549.0
+2020-09-15,RIAU,Rice,KG,aggregate,Retail,IDR,12581.0
+2020-10-15,RIAU,Rice,KG,aggregate,Retail,IDR,12561.0
+2020-11-15,RIAU,Rice,KG,aggregate,Retail,IDR,12562.0
+2020-12-15,RIAU,Rice,KG,aggregate,Retail,IDR,12560.0
+2021-01-15,RIAU,Rice,KG,aggregate,Retail,IDR,12556.0
+2021-02-15,RIAU,Rice,KG,aggregate,Retail,IDR,12556.0
+2021-03-15,RIAU,Rice,KG,aggregate,Retail,IDR,12543.0
+2021-04-15,RIAU,Rice,KG,aggregate,Retail,IDR,12475.0
+2021-05-15,RIAU,Rice,KG,aggregate,Retail,IDR,12450.0
+2021-06-15,RIAU,Rice,KG,aggregate,Retail,IDR,12480.0
+2021-07-15,RIAU,Rice,KG,aggregate,Retail,IDR,12446.0
+2021-08-15,RIAU,Rice,KG,aggregate,Retail,IDR,12434.0
+2021-09-15,RIAU,Rice,KG,aggregate,Retail,IDR,12439.0
+2021-10-15,RIAU,Rice,KG,aggregate,Retail,IDR,12434.0
+2021-11-15,RIAU,Rice,KG,aggregate,Retail,IDR,12431.0
+2021-12-15,RIAU,Rice,KG,aggregate,Retail,IDR,12438.0
+2022-01-15,RIAU,Rice,KG,aggregate,Retail,IDR,12490.0
+2022-02-15,RIAU,Rice,KG,aggregate,Retail,IDR,12501.0
+2022-03-15,RIAU,Rice,KG,aggregate,Retail,IDR,12403.0
+2022-04-15,RIAU,Rice,KG,aggregate,Retail,IDR,12394.0
+2022-05-15,RIAU,Rice,KG,aggregate,Retail,IDR,12392.0
+2022-06-15,RIAU,Rice,KG,aggregate,Retail,IDR,12387.0
+2022-07-15,RIAU,Rice,KG,aggregate,Retail,IDR,12386.0
+2022-08-15,RIAU,Rice,KG,aggregate,Retail,IDR,12486.0
+2022-09-15,RIAU,Rice,KG,aggregate,Retail,IDR,13401.0
+2022-10-15,RIAU,Rice,KG,aggregate,Retail,IDR,14050.0
+2022-11-15,RIAU,Rice,KG,aggregate,Retail,IDR,14287.0
+2022-12-15,RIAU,Rice,KG,aggregate,Retail,IDR,14445.0
+2023-01-15,RIAU,Rice,KG,aggregate,Retail,IDR,14469.0
+2023-02-15,RIAU,Rice,KG,aggregate,Retail,IDR,14568.0
+2023-03-15,RIAU,Rice,KG,aggregate,Retail,IDR,14483.0
+2023-04-15,RIAU,Rice,KG,aggregate,Retail,IDR,14473.0
+2023-05-15,RIAU,Rice,KG,aggregate,Retail,IDR,14459.0
+2023-06-15,RIAU,Rice,KG,aggregate,Retail,IDR,14577.0
+2023-07-15,RIAU,Rice,KG,aggregate,Retail,IDR,14505.0
+2023-08-15,RIAU,Rice,KG,aggregate,Retail,IDR,14589.0
+2023-09-15,RIAU,Rice,KG,aggregate,Retail,IDR,15287.0
+2023-10-15,RIAU,Rice,KG,aggregate,Retail,IDR,15464.0
+2023-11-15,RIAU,Rice,KG,aggregate,Retail,IDR,15525.0
+2023-12-15,RIAU,Rice,KG,aggregate,Retail,IDR,15525.0
+2016-01-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9275.0
+2016-02-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9275.0
+2016-03-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9275.0
+2016-04-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9275.0
+2016-05-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9275.0
+2016-06-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9275.0
+2016-07-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9275.0
+2016-08-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9352.0
+2016-09-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9400.0
+2016-10-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9330.0
+2016-11-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9289.0
+2016-12-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9325.0
+2017-01-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9337.0
+2017-02-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9349.0
+2017-03-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9361.0
+2017-04-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9377.68
+2017-05-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9394.35
+2017-06-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9411.03
+2017-07-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9427.71
+2017-08-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9444.38
+2017-09-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9461.06
+2017-10-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9477.74
+2017-11-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9494.41
+2017-12-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9511.09
+2018-01-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9527.76
+2018-02-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9544.44
+2018-03-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9561.12
+2018-04-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9577.79
+2018-05-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9594.47
+2018-06-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9611.15
+2018-07-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9627.82
+2018-08-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9644.5
+2018-09-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9661.18
+2018-10-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9677.85
+2018-11-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9694.53
+2018-12-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9711.21
+2019-01-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9727.88
+2019-02-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9744.56
+2019-03-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9761.24
+2019-04-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9777.91
+2019-05-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9794.59
+2019-06-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9811.26
+2019-07-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9827.94
+2019-08-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9844.62
+2019-09-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9861.29
+2019-10-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9877.97
+2019-11-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9894.65
+2019-12-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9911.32
+2020-01-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9928.0
+2020-02-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9942.0
+2020-03-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10144.0
+2020-04-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10118.0
+2020-05-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10034.0
+2020-06-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10102.0
+2020-07-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10094.0
+2020-08-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10089.0
+2020-09-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10090.0
+2020-10-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10010.0
+2020-11-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9825.0
+2020-12-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9822.0
+2021-01-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9845.0
+2021-02-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9880.0
+2021-03-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9834.0
+2021-04-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9858.0
+2021-05-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9813.0
+2021-06-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9864.0
+2021-07-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9863.0
+2021-08-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9862.0
+2021-09-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9862.0
+2021-10-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9866.0
+2021-11-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9889.0
+2021-12-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9888.0
+2022-01-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9901.0
+2022-02-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9989.0
+2022-03-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10079.0
+2022-04-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9996.0
+2022-05-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9945.0
+2022-06-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9840.0
+2022-07-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9762.0
+2022-08-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9785.0
+2022-09-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9845.0
+2022-10-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9850.0
+2022-11-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,9869.0
+2022-12-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10812.0
+2023-01-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,10944.0
+2023-02-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,11539.0
+2023-03-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,11799.0
+2023-04-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,11761.0
+2023-05-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,11677.0
+2023-06-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,11675.0
+2023-07-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,11645.0
+2023-08-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,11633.0
+2023-09-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,12664.0
+2023-10-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,13533.0
+2023-11-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,13533.0
+2023-12-15,SULAWESI BARAT,Rice,KG,aggregate,Retail,IDR,13533.0
+2016-01-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9858.0
+2016-02-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9858.0
+2016-03-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9858.0
+2016-04-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9858.0
+2016-05-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9858.0
+2016-06-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9858.0
+2016-07-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9858.0
+2016-08-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9772.0
+2016-09-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9606.0
+2016-10-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9643.0
+2016-11-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9672.0
+2016-12-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9742.0
+2017-01-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9742.0
+2017-02-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9742.0
+2017-03-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9742.0
+2017-04-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9745.97
+2017-05-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9749.94
+2017-06-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9753.91
+2017-07-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9757.88
+2017-08-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9761.85
+2017-09-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9765.82
+2017-10-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9769.79
+2017-11-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9773.76
+2017-12-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9777.74
+2018-01-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9781.71
+2018-02-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9785.68
+2018-03-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9789.65
+2018-04-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9793.62
+2018-05-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9797.59
+2018-06-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9801.56
+2018-07-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9805.53
+2018-08-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9809.5
+2018-09-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9813.47
+2018-10-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9817.44
+2018-11-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9821.41
+2018-12-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9825.38
+2019-01-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9829.35
+2019-02-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9833.32
+2019-03-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9837.29
+2019-04-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9841.26
+2019-05-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9845.24
+2019-06-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9849.21
+2019-07-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9853.18
+2019-08-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9857.15
+2019-09-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9861.12
+2019-10-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9865.09
+2019-11-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9869.06
+2019-12-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9873.03
+2020-01-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9877.0
+2020-02-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9865.0
+2020-03-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9879.0
+2020-04-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9885.0
+2020-05-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9874.0
+2020-06-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9924.0
+2020-07-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10077.0
+2020-08-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10079.0
+2020-09-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10069.0
+2020-10-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10070.0
+2020-11-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9992.0
+2020-12-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9960.0
+2021-01-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9994.0
+2021-02-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10017.0
+2021-03-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10037.0
+2021-04-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10008.0
+2021-05-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9834.0
+2021-06-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9854.0
+2021-07-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9854.0
+2021-08-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9849.0
+2021-09-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9719.0
+2021-10-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9768.0
+2021-11-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9778.0
+2021-12-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9802.0
+2022-01-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9922.0
+2022-02-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9949.0
+2022-03-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9929.0
+2022-04-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9896.0
+2022-05-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9935.0
+2022-06-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,9936.0
+2022-07-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10018.0
+2022-08-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10029.0
+2022-09-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10065.0
+2022-10-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10121.0
+2022-11-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10147.0
+2022-12-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10597.0
+2023-01-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,10750.0
+2023-02-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,11150.0
+2023-03-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,11700.0
+2023-04-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,11768.0
+2023-05-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,11702.0
+2023-06-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,11727.0
+2023-07-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,11845.0
+2023-08-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,11929.0
+2023-09-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,12237.0
+2023-10-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,12714.0
+2023-11-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,12869.0
+2023-12-15,SULAWESI SELATAN,Rice,KG,aggregate,Retail,IDR,12869.0
+2016-01-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10332.0
+2016-02-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10332.0
+2016-03-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10332.0
+2016-04-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10332.0
+2016-05-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10332.0
+2016-06-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10332.0
+2016-07-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10332.0
+2016-08-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10332.0
+2016-09-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10303.0
+2016-10-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10045.0
+2016-11-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10000.0
+2016-12-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10000.0
+2017-01-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10033.33
+2017-02-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10066.67
+2017-03-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10100.0
+2017-04-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10126.62
+2017-05-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10153.24
+2017-06-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10179.85
+2017-07-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10206.47
+2017-08-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10233.09
+2017-09-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10259.71
+2017-10-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10286.32
+2017-11-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10312.94
+2017-12-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10339.56
+2018-01-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10366.18
+2018-02-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10392.79
+2018-03-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10419.41
+2018-04-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10446.03
+2018-05-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10472.65
+2018-06-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10499.26
+2018-07-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10525.88
+2018-08-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10552.5
+2018-09-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10579.12
+2018-10-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10605.74
+2018-11-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10632.35
+2018-12-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10658.97
+2019-01-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10685.59
+2019-02-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10712.21
+2019-03-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10738.82
+2019-04-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10765.44
+2019-05-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10792.06
+2019-06-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10818.68
+2019-07-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10845.29
+2019-08-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10871.91
+2019-09-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10898.53
+2019-10-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10925.15
+2019-11-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10951.76
+2019-12-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10978.38
+2020-01-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11005.0
+2020-02-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10860.0
+2020-03-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10991.0
+2020-04-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11125.0
+2020-05-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11125.0
+2020-06-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11125.0
+2020-07-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11178.0
+2020-08-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11200.0
+2020-09-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11177.0
+2020-10-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11175.0
+2020-11-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11175.0
+2020-12-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11175.0
+2021-01-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11175.0
+2021-02-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11175.0
+2021-03-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11175.0
+2021-04-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11175.0
+2021-05-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11172.0
+2021-06-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10860.0
+2021-07-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10781.0
+2021-08-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10680.0
+2021-09-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10575.0
+2021-10-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10575.0
+2021-11-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10575.0
+2021-12-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10575.0
+2022-01-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10582.0
+2022-02-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10582.0
+2022-03-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10584.0
+2022-04-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10600.0
+2022-05-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10580.0
+2022-06-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10500.0
+2022-07-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10514.0
+2022-08-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10557.0
+2022-09-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10633.0
+2022-10-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10864.0
+2022-11-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,10950.0
+2022-12-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11269.0
+2023-01-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,11425.0
+2023-02-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,12304.0
+2023-03-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,12799.0
+2023-04-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,12901.0
+2023-05-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,12909.0
+2023-06-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,12852.0
+2023-07-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,12851.0
+2023-08-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,12778.0
+2023-09-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,13034.0
+2023-10-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,14029.0
+2023-11-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,14050.0
+2023-12-15,SULAWESI TENGAH,Rice,KG,aggregate,Retail,IDR,14050.0
+2016-01-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10250.0
+2016-02-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10250.0
+2016-03-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10250.0
+2016-04-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10250.0
+2016-05-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10250.0
+2016-06-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10250.0
+2016-07-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10250.0
+2016-08-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10248.0
+2016-09-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10244.0
+2016-10-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10405.0
+2016-11-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10508.0
+2016-12-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10405.0
+2017-01-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10399.33
+2017-02-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10393.67
+2017-03-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10388.0
+2017-04-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10392.65
+2017-05-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10397.29
+2017-06-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10401.94
+2017-07-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10406.59
+2017-08-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10411.24
+2017-09-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10415.88
+2017-10-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10420.53
+2017-11-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10425.18
+2017-12-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10429.82
+2018-01-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10434.47
+2018-02-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10439.12
+2018-03-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10443.76
+2018-04-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10448.41
+2018-05-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10453.06
+2018-06-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10457.71
+2018-07-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10462.35
+2018-08-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10467.0
+2018-09-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10471.65
+2018-10-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10476.29
+2018-11-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10480.94
+2018-12-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10485.59
+2019-01-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10490.24
+2019-02-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10494.88
+2019-03-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10499.53
+2019-04-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10504.18
+2019-05-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10508.82
+2019-06-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10513.47
+2019-07-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10518.12
+2019-08-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10522.76
+2019-09-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10527.41
+2019-10-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10532.06
+2019-11-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10536.71
+2019-12-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10541.35
+2020-01-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10546.0
+2020-02-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10577.0
+2020-03-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10763.0
+2020-04-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,11208.0
+2020-05-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10927.0
+2020-06-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10801.0
+2020-07-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10777.0
+2020-08-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10836.0
+2020-09-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10807.0
+2020-10-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10768.0
+2020-11-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10760.0
+2020-12-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10750.0
+2021-01-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10774.0
+2021-02-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10814.0
+2021-03-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10888.0
+2021-04-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,11010.0
+2021-05-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,11010.0
+2021-06-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10956.0
+2021-07-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10905.0
+2021-08-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10881.0
+2021-09-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10882.0
+2021-10-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10834.0
+2021-11-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10825.0
+2021-12-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10864.0
+2022-01-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10926.0
+2022-02-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10988.0
+2022-03-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10992.0
+2022-04-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10991.0
+2022-05-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10968.0
+2022-06-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10972.0
+2022-07-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10975.0
+2022-08-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10975.0
+2022-09-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,10991.0
+2022-10-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,11019.0
+2022-11-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,11067.0
+2022-12-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,11501.0
+2023-01-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,11697.0
+2023-02-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,11763.0
+2023-03-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,12388.0
+2023-04-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,12958.0
+2023-05-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,12966.0
+2023-06-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,12943.0
+2023-07-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,12859.0
+2023-08-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,12835.0
+2023-09-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,13254.0
+2023-10-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,14016.0
+2023-11-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,14062.0
+2023-12-15,SULAWESI TENGGARA,Rice,KG,aggregate,Retail,IDR,14062.0
+2016-01-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11654.0
+2016-02-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11654.0
+2016-03-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11654.0
+2016-04-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11654.0
+2016-05-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11654.0
+2016-06-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11654.0
+2016-07-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11654.0
+2016-08-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11780.0
+2016-09-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11775.0
+2016-10-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11775.0
+2016-11-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11775.0
+2016-12-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11775.0
+2017-01-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11464.67
+2017-02-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11154.33
+2017-03-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10844.0
+2017-04-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10853.68
+2017-05-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10863.35
+2017-06-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10873.03
+2017-07-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10882.71
+2017-08-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10892.38
+2017-09-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10902.06
+2017-10-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10911.74
+2017-11-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10921.41
+2017-12-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10931.09
+2018-01-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10940.76
+2018-02-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10950.44
+2018-03-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10960.12
+2018-04-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10969.79
+2018-05-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10979.47
+2018-06-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10989.15
+2018-07-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,10998.82
+2018-08-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11008.5
+2018-09-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11018.18
+2018-10-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11027.85
+2018-11-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11037.53
+2018-12-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11047.21
+2019-01-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11056.88
+2019-02-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11066.56
+2019-03-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11076.24
+2019-04-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11085.91
+2019-05-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11095.59
+2019-06-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11105.26
+2019-07-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11114.94
+2019-08-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11124.62
+2019-09-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11134.29
+2019-10-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11143.97
+2019-11-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11153.65
+2019-12-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11163.32
+2020-01-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11173.0
+2020-02-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11175.0
+2020-03-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11175.0
+2020-04-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11517.0
+2020-05-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11525.0
+2020-06-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11235.0
+2020-07-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11225.0
+2020-08-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11225.0
+2020-09-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11328.0
+2020-10-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11400.0
+2020-11-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11400.0
+2020-12-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11400.0
+2021-01-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11400.0
+2021-02-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11400.0
+2021-03-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11400.0
+2021-04-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11375.0
+2021-05-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11251.0
+2021-06-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11200.0
+2021-07-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11312.0
+2021-08-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11309.0
+2021-09-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11248.0
+2021-10-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11273.0
+2021-11-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11289.0
+2021-12-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11211.0
+2022-01-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11223.0
+2022-02-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11235.0
+2022-03-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11288.0
+2022-04-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11382.0
+2022-05-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11428.0
+2022-06-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11400.0
+2022-07-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11404.0
+2022-08-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11468.0
+2022-09-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11475.0
+2022-10-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11449.0
+2022-11-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11450.0
+2022-12-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11745.0
+2023-01-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,11944.0
+2023-02-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,12208.0
+2023-03-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,13040.0
+2023-04-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,13230.0
+2023-05-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,13180.0
+2023-06-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,13065.0
+2023-07-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,12886.0
+2023-08-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,12832.0
+2023-09-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,13219.0
+2023-10-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,14025.0
+2023-11-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,14083.0
+2023-12-15,SULAWESI UTARA,Rice,KG,aggregate,Retail,IDR,14083.0
+2016-01-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12521.0
+2016-02-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12521.0
+2016-03-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12521.0
+2016-04-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12521.0
+2016-05-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12521.0
+2016-06-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12521.0
+2016-07-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12521.0
+2016-08-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12781.0
+2016-09-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12641.0
+2016-10-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,12846.0
+2016-11-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13210.0
+2016-12-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13615.0
+2017-01-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13597.0
+2017-02-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13579.0
+2017-03-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13561.0
+2017-04-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13567.29
+2017-05-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13573.59
+2017-06-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13579.88
+2017-07-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13586.18
+2017-08-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13592.47
+2017-09-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13598.76
+2017-10-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13605.06
+2017-11-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13611.35
+2017-12-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13617.65
+2018-01-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13623.94
+2018-02-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13630.24
+2018-03-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13636.53
+2018-04-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13642.82
+2018-05-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13649.12
+2018-06-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13655.41
+2018-07-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13661.71
+2018-08-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13668.0
+2018-09-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13674.29
+2018-10-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13680.59
+2018-11-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13686.88
+2018-12-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13693.18
+2019-01-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13699.47
+2019-02-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13705.76
+2019-03-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13712.06
+2019-04-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13718.35
+2019-05-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13724.65
+2019-06-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13730.94
+2019-07-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13737.24
+2019-08-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13743.53
+2019-09-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13749.82
+2019-10-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13756.12
+2019-11-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13762.41
+2019-12-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13768.71
+2020-01-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13775.0
+2020-02-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13849.0
+2020-03-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13862.0
+2020-04-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13862.0
+2020-05-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13852.0
+2020-06-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13627.0
+2020-07-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13508.0
+2020-08-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13461.0
+2020-09-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13338.0
+2020-10-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13314.0
+2020-11-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13310.0
+2020-12-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13376.0
+2021-01-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13486.0
+2021-02-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13538.0
+2021-03-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13499.0
+2021-04-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13525.0
+2021-05-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13525.0
+2021-06-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13536.0
+2021-07-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13533.0
+2021-08-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13466.0
+2021-09-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13282.0
+2021-10-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13203.0
+2021-11-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13188.0
+2021-12-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13203.0
+2022-01-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13174.0
+2022-02-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13188.0
+2022-03-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13203.0
+2022-04-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13253.0
+2022-05-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13259.0
+2022-06-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13232.0
+2022-07-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13267.0
+2022-08-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,13435.0
+2022-09-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14063.0
+2022-10-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14907.0
+2022-11-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14929.0
+2022-12-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,15034.0
+2023-01-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,15075.0
+2023-02-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,15050.0
+2023-03-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14958.0
+2023-04-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14842.0
+2023-05-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14787.0
+2023-06-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14786.0
+2023-07-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14772.0
+2023-08-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,14781.0
+2023-09-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,15629.0
+2023-10-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,16097.0
+2023-11-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,16312.0
+2023-12-15,SUMATERA BARAT,Rice,KG,aggregate,Retail,IDR,16312.0
+2016-01-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10950.0
+2016-02-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10950.0
+2016-03-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10950.0
+2016-04-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10950.0
+2016-05-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10950.0
+2016-06-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10950.0
+2016-07-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10950.0
+2016-08-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10951.0
+2016-09-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10952.0
+2016-10-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10982.0
+2016-11-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10581.0
+2016-12-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10605.0
+2017-01-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10596.67
+2017-02-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10588.33
+2017-03-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10580.0
+2017-04-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10610.76
+2017-05-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10641.53
+2017-06-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10672.29
+2017-07-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10703.06
+2017-08-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10733.82
+2017-09-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10764.59
+2017-10-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10795.35
+2017-11-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10826.12
+2017-12-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10856.88
+2018-01-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10887.65
+2018-02-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10918.41
+2018-03-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10949.18
+2018-04-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,10979.94
+2018-05-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11010.71
+2018-06-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11041.47
+2018-07-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11072.24
+2018-08-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11103.0
+2018-09-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11133.76
+2018-10-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11164.53
+2018-11-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11195.29
+2018-12-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11226.06
+2019-01-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11256.82
+2019-02-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11287.59
+2019-03-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11318.35
+2019-04-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11349.12
+2019-05-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11379.88
+2019-06-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11410.65
+2019-07-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11441.41
+2019-08-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11472.18
+2019-09-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11502.94
+2019-10-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11533.71
+2019-11-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11564.47
+2019-12-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11595.24
+2020-01-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11626.0
+2020-02-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11586.0
+2020-03-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11472.0
+2020-04-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11467.0
+2020-05-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11467.0
+2020-06-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11467.0
+2020-07-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11791.0
+2020-08-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12017.0
+2020-09-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11676.0
+2020-10-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11626.0
+2020-11-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11633.0
+2020-12-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11573.0
+2021-01-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11502.0
+2021-02-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11483.0
+2021-03-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11415.0
+2021-04-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11356.0
+2021-05-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11446.0
+2021-06-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11496.0
+2021-07-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11316.0
+2021-08-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11289.0
+2021-09-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11300.0
+2021-10-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11284.0
+2021-11-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11283.0
+2021-12-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11393.0
+2022-01-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11475.0
+2022-02-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11478.0
+2022-03-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11352.0
+2022-04-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11736.0
+2022-05-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11333.0
+2022-06-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11333.0
+2022-07-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11340.0
+2022-08-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,11602.0
+2022-09-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12075.0
+2022-10-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12243.0
+2022-11-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12338.0
+2022-12-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12395.0
+2023-01-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12495.0
+2023-02-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12617.0
+2023-03-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12659.0
+2023-04-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,12800.0
+2023-05-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,13057.0
+2023-06-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,13251.0
+2023-07-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,13310.0
+2023-08-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,13577.0
+2023-09-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,14137.0
+2023-10-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,14558.0
+2023-11-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,14567.0
+2023-12-15,SUMATERA SELATAN,Rice,KG,aggregate,Retail,IDR,14567.0
+2016-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,9846.0
+2016-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,9846.0
+2016-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,9846.0
+2016-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,9846.0
+2016-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,9846.0
+2016-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,9846.0
+2016-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,9846.0
+2016-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10175.0
+2016-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10410.0
+2016-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10419.0
+2016-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10506.0
+2016-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10565.0
+2017-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10565.33
+2017-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10565.67
+2017-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10566.0
+2017-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10578.85
+2017-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10591.71
+2017-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10604.56
+2017-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10617.41
+2017-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10630.26
+2017-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10643.12
+2017-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10655.97
+2017-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10668.82
+2017-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10681.68
+2018-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10694.53
+2018-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10707.38
+2018-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10720.24
+2018-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10733.09
+2018-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10745.94
+2018-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10758.79
+2018-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10771.65
+2018-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10784.5
+2018-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10797.35
+2018-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10810.21
+2018-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10823.06
+2018-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10835.91
+2019-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10848.76
+2019-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10861.62
+2019-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10874.47
+2019-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10887.32
+2019-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10900.18
+2019-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10913.03
+2019-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10925.88
+2019-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10938.74
+2019-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10951.59
+2019-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10964.44
+2019-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10977.29
+2019-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10990.15
+2020-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11003.0
+2020-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10984.0
+2020-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10965.0
+2020-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10955.0
+2020-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10952.0
+2020-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10967.0
+2020-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11005.0
+2020-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11010.0
+2020-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10993.0
+2020-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10992.0
+2020-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10991.0
+2020-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10972.0
+2021-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10958.0
+2021-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,10944.0
+2021-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11149.0
+2021-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11164.0
+2021-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11160.0
+2021-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11132.0
+2021-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11121.0
+2021-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11145.0
+2021-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11102.0
+2021-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11068.0
+2021-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11022.0
+2021-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11059.0
+2022-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11155.0
+2022-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11213.0
+2022-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11218.0
+2022-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11224.0
+2022-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11226.0
+2022-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11221.0
+2022-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11212.0
+2022-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11275.0
+2022-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11478.0
+2022-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11588.0
+2022-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11628.0
+2022-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,11742.0
+2023-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12073.0
+2023-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12529.0
+2023-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12416.0
+2023-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12428.0
+2023-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12464.0
+2023-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12442.0
+2023-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12440.0
+2023-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12574.0
+2023-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,12988.0
+2023-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,13141.0
+2023-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,13181.0
+2023-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,13645.5
+2024-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14110.0
+2024-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,15020.0
+2024-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14580.0
+2024-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14880.0
+2024-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14530.0
+2024-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14450.0
+2024-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14450.0
+2024-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14500.0
+2024-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,15160.0
+2024-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,15120.0
+2024-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,15070.0
+2024-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,15060.0
+2025-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,15200.0
+2025-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,15220.0
+2025-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,15110.0
+2025-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14800.0
+2025-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14700.0
+2025-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14400.0
+2025-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14470.0
+2025-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14580.0
+2025-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14560.0
+2025-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14600.0
+2025-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,13780.0
+2025-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
+2026-01-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14110.0
+2026-02-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
+2026-03-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14200.0
+2026-04-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14580.0
+2026-05-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14700.0
+2026-06-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
+2026-07-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
+2026-08-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
+2026-09-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
+2026-10-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
+2026-11-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
+2026-12-15,SUMATERA UTARA,Rice,KG,aggregate,Retail,IDR,14100.0
