@@ -183,8 +183,8 @@ class PredictionController extends Controller
             $prevPrice = RicePrice::where('province_id', $province->id)
                 ->where(function ($q) use ($latestPrice) {
                     $q->where('year', $latestPrice?->year)
-                      ->where('month', '<', $latestPrice?->month)
-                      ->orWhere('year', '<', $latestPrice?->year);
+                        ->where('month', '<', $latestPrice?->month)
+                        ->orWhere('year', '<', $latestPrice?->year);
                 })
                 ->orderBy('year', 'desc')
                 ->orderBy('month', 'desc')

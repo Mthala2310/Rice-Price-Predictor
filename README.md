@@ -13,13 +13,7 @@
   <b>Machine Learning-based rice price forecasting system</b> — trains Linear Regression models per province to predict future rice prices across all 31 provinces of Indonesia.
 </p>
 
----
 
-## Screenshots
-
-| Dashboard | Prediction | Comparison |
-|---|---|---|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
 
 ---
 
